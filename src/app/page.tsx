@@ -72,14 +72,8 @@ const Home = () => {
     }
   }, []);
 
-  if (!window?.speechSynthesis) {
-    alert("window?.speechSynthesis not supported in this browser");
-    return (
-      <div>
-        <h1>window?.speechSynthesis not supported in this browser</h1>
-      </div>
-    );
-  }
+  // if (!window?.speechSynthesis)
+  //   alert("window?.speechSynthesis not supported in this browser");
 
   const loadBook = async (book: string) => {
     const response = await fetch(`/books/${book}.json`);
@@ -208,6 +202,12 @@ const Home = () => {
   return (
     <Layout style={{ padding: "24px", minHeight: "100vh" }}>
       <Content>
+        {/* {!window?.speechSynthesis && (
+          <div>
+            <h1>window?.speechSynthesis not supported in this browser</h1>
+          </div>
+        )} */}
+
         <Link href="/ClearHistory">
           <Button type="link" style={{ marginBottom: "24px" }}>
             Clear History
