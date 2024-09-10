@@ -204,6 +204,11 @@ const Home = () => {
             Clear History
           </Button>
         </Link>
+        <Link href="/TestV1">
+          <Button type="link" style={{ marginBottom: "24px" }}>
+            Test
+          </Button>
+        </Link>
         <br />
         <br />
         <Button onClick={setLastContinuation}>Continue</Button>
