@@ -35,7 +35,7 @@ const Home = () => {
 
   useEffect(() => {
     const loadVoices = () => {
-      const availableVoices = speechSynthesis
+      const availableVoices = window?.speechSynthesis
         .getVoices()
         // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
         .filter(
@@ -55,9 +55,9 @@ const Home = () => {
 
     if (
       typeof window !== "undefined" &&
-      speechSynthesis.onvoiceschanged !== undefined
+      window.speechSynthesis.onvoiceschanged !== undefined
     ) {
-      speechSynthesis.onvoiceschanged = loadVoices;
+      window.speechSynthesis.onvoiceschanged = loadVoices;
     }
 
     // Load saved progress
@@ -71,6 +71,15 @@ const Home = () => {
       setStartWord(savedWords.split(" ").slice(-1)[0]); // Start from the last word
     }
   }, []);
+
+  if (!window?.speechSynthesis) {
+    alert("window?.speechSynthesis not supported in this browser");
+    return (
+      <div>
+        <h1>window?.speechSynthesis not supported in this browser</h1>
+      </div>
+    );
+  }
 
   const loadBook = async (book: string) => {
     const response = await fetch(`/books/${book}.json`);
@@ -110,8 +119,8 @@ const Home = () => {
   const handleSpeak = (startFromWord: string) => {
     if (!bookText || !selectedVoice) return;
 
-    if (speechSynthesis.speaking && !isPaused) {
-      speechSynthesis.cancel();
+    if (window.speechSynthesis.speaking && !isPaused) {
+      window.speechSynthesis.cancel();
     }
 
     let textToSpeak = bookText;
@@ -148,14 +157,14 @@ const Home = () => {
     };
 
     utteranceRef.current = utterance;
-    speechSynthesis.speak(utterance);
+    window.speechSynthesis.speak(utterance);
     setIsSpeaking(true);
     setIsPaused(false);
   };
 
   const handlePause = () => {
-    if (speechSynthesis.speaking && !isPaused) {
-      speechSynthesis.pause();
+    if (window.speechSynthesis.speaking && !isPaused) {
+      window.speechSynthesis.pause();
       setIsPaused(true);
       saveProgress();
     }
@@ -163,14 +172,14 @@ const Home = () => {
 
   const handleResume = () => {
     if (isPaused) {
-      speechSynthesis.resume();
+      window.speechSynthesis.resume();
       setIsPaused(false);
     }
   };
 
   const handleStop = () => {
-    if (speechSynthesis.speaking || isPaused) {
-      speechSynthesis.cancel();
+    if (window.speechSynthesis.speaking || isPaused) {
+      window.speechSynthesis.cancel();
       setIsSpeaking(false);
       setIsPaused(false);
       setCurrentWordIndex(-1);

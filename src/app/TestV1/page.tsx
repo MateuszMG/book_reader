@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { Button, Layout, List, message } from "antd";
+import { Button, Input, Layout, List, message } from "antd";
 import Link from "next/link";
 
 const { Content } = Layout;
@@ -18,6 +18,8 @@ interface IVoice {
 
 const TestV1: React.FC = () => {
   const [voices, setVoices] = useState<IVoice[]>([]);
+  const [text, setText] = useState("Dev text to speak");
+
   const handleInitText = () => {
     const msg = new SpeechSynthesisUtterance("Hello, world!");
     window.speechSynthesis.speak(msg);
@@ -34,7 +36,9 @@ const TestV1: React.FC = () => {
     }
   }, []);
 
-  console.log("voices", voices);
+  const handleSpeak = () => {
+    window.speechSynthesis.speak(new SpeechSynthesisUtterance(text));
+  };
 
   //   speechSynthesis.onvoiceschanged = function () {
   //     var msg = new SpeechSynthesisUtterance("Hello!");
@@ -61,6 +65,17 @@ const TestV1: React.FC = () => {
           style={{ marginBottom: "20px" }}
         >
           handleInitText
+        </Button>
+
+        <Input onChange={(e) => setText(e.target.value)} value={text} />
+
+        <Button
+          type="primary"
+          danger
+          onClick={handleSpeak}
+          style={{ marginBottom: "20px" }}
+        >
+          handleSpeak
         </Button>
 
         <List
