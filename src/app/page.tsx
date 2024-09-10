@@ -1,6 +1,6 @@
 "use client";
 import { useState, useEffect, useRef } from "react";
-import { Select, Button, Typography, Layout, Slider, Input } from "antd";
+import { Select, Button, Typography, Layout, Slider, Input, List } from "antd";
 import {
   PlayCircleOutlined,
   PauseCircleOutlined,
@@ -35,15 +35,14 @@ const Home = () => {
 
   useEffect(() => {
     const loadVoices = () => {
-      const availableVoices = window?.speechSynthesis
-        .getVoices()
-        // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
-        .filter(
-          (item) =>
-            item.name.includes("Zosia (Enhanced)") ||
-            item.name.includes("Daniel")
-        )
-        .reverse();
+      const availableVoices = window?.speechSynthesis.getVoices();
+      // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
+      // .filter(
+      //   (item) =>
+      //     item.name.includes("Zosia (Enhanced)") ||
+      //     item.name.includes("Daniel")
+      // )
+      // .reverse();
 
       setVoices(availableVoices);
       if (availableVoices.length > 0) {
@@ -72,8 +71,21 @@ const Home = () => {
     }
   }, []);
 
-  // if (!window?.speechSynthesis)
-  //   alert("window?.speechSynthesis not supported in this browser");
+  const handleLoadVoices = () => {
+    const availableVoices = window?.speechSynthesis
+      .getVoices()
+      // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
+      .filter(
+        (item) =>
+          item.name.includes("Zosia (Enhanced)") || item.name.includes("Daniel")
+      )
+      .reverse();
+
+    setVoices(availableVoices);
+    if (availableVoices.length > 0) {
+      setSelectedVoice(availableVoices[0].name);
+    }
+  };
 
   const loadBook = async (book: string) => {
     const response = await fetch(`/books/${book}.json`);
@@ -220,6 +232,15 @@ const Home = () => {
         </Link>
         <br />
         <br />
+        <Button
+          type="primary"
+          danger
+          onClick={handleLoadVoices}
+          style={{ marginBottom: "20px" }}
+        >
+          loadVoices
+        </Button>
+        <br />
         <Button onClick={setLastContinuation}>Continue</Button>
         <br />
         <br />
@@ -315,6 +336,25 @@ const Home = () => {
             </Paragraph>
           </>
         )}
+
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <List
+          header={<div>voices</div>}
+          bordered
+          dataSource={(voices || []).slice(0, 50)}
+          renderItem={(item, index) => (
+            <List.Item>
+              <div>
+                <strong>lang :</strong> {item.lang} " . "<strong>name :</strong>{" "}
+                {item.name}
+              </div>
+            </List.Item>
+          )}
+        />
       </Content>
     </Layout>
   );
