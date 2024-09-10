@@ -349,8 +349,8 @@ const Home = () => {
           renderItem={(item, index) => (
             <List.Item>
               <div>
-                <strong>lang :</strong> {item.lang} " . "<strong>name :</strong>{" "}
-                {item.name}
+                <strong>lang :</strong> {item.lang} {" . "}
+                <strong>name :</strong> {item.name}
               </div>
             </List.Item>
           )}
