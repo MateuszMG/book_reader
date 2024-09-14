@@ -16,7 +16,7 @@ const options: CascaderProps["options"] = [
   {
     value: "PsychologiaDlaBystrz",
     label: "Psych...DlaB",
-    children: createChaptersData(19),
+    children: createChaptersData(20),
   },
 ];
 
