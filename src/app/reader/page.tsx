@@ -54,14 +54,18 @@ const Reader = () => {
         )
         .reverse();
 
-      if (!availableVoices || availableVoices?.length) {
+      if (!availableVoices || !availableVoices?.length) {
         availableVoices = window?.speechSynthesis.getVoices().reverse();
       }
 
       setVoices(availableVoices);
     };
 
-    if (window.speechSynthesis.onvoiceschanged !== undefined) {
+    // support for async in some browsers
+    if (
+      typeof window !== "undefined" &&
+      window.speechSynthesis.onvoiceschanged !== undefined
+    ) {
       window.speechSynthesis.onvoiceschanged = handleLoadVoices;
     }
 
