@@ -1,7 +1,8 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import { Button, Input, Layout, List, message, Select } from "antd";
+import { Button, Input, Layout, List, message, Select, Slider } from "antd";
 import Link from "next/link";
+import { handleApiError } from "@/components/ErrorToast";
 
 const { Content } = Layout;
 
@@ -34,7 +35,8 @@ const TestV1: React.FC = () => {
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
   const [text, setText] = useState("Dev text to speak");
   const [selectedVoice, setSelectedVoice] = useState<string>("");
-  console.log("voices", voices);
+  const [speechRate, setSpeechRate] = useState<number>(1);
+  // console.log("voices", voices);
 
   const handleInitText = () => {
     const msg = new SpeechSynthesisUtterance("Hello, world!");
@@ -46,6 +48,7 @@ const TestV1: React.FC = () => {
       const to_speak = new SpeechSynthesisUtterance("Hello world!");
       speechSynthesis.cancel();
       window.speechSynthesis.speak(to_speak);
+
       setVoices(
         window.speechSynthesis
           .getVoices()
@@ -56,13 +59,42 @@ const TestV1: React.FC = () => {
               lang.toLowerCase().includes("pl")
           )
       );
+
+      const handleLoadVoices = () => {
+        const availableVoices = window?.speechSynthesis
+          .getVoices()
+          // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
+          .filter(
+            // (item) =>
+            //   item.name.includes("Zosia (Enhanced)") || item.name.includes("Daniel")
+            ({ lang }) =>
+              lang.toLowerCase().includes("en") ||
+              lang.toLowerCase().includes("us") ||
+              lang.toLowerCase().includes("pl")
+          )
+          .reverse();
+
+        setVoices(availableVoices);
+      };
+
+      if (
+        typeof window !== "undefined" &&
+        window.speechSynthesis.onvoiceschanged !== undefined
+      ) {
+        window.speechSynthesis.onvoiceschanged = handleLoadVoices;
+      }
     } else {
       alert("not support speechSynthesis");
     }
   }, []);
 
   const handleSpeak = () => {
-    window.speechSynthesis.speak(new SpeechSynthesisUtterance(text));
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.rate = speechRate;
+    utterance.voice =
+      voices.find((voice) => voice.name === selectedVoice) || null;
+
+    window.speechSynthesis.speak(utterance);
   };
 
   //   speechSynthesis.onvoiceschanged = function () {
@@ -76,9 +108,16 @@ const TestV1: React.FC = () => {
     const utterance = new SpeechSynthesisUtterance(
       lang === "en" ? textEN : textPL
     );
-    utterance.rate = 1;
+    utterance.rate = speechRate;
     utterance.voice =
       voices.find((voice) => voice.name === selectedVoice) || null;
+
+    handleApiError(
+      "selectedVoice: " +
+        selectedVoice +
+        " ---  utterance.voice: " +
+        utterance.voice
+    );
 
     window.speechSynthesis.speak(utterance);
   };
@@ -92,6 +131,19 @@ const TestV1: React.FC = () => {
           </Button>
         </Link>
 
+        <br />
+
+        <div style={{ marginBottom: "24px" }}>
+          <span>Speech Speed: </span>
+          <Slider
+            min={0.2}
+            max={4}
+            step={0.1}
+            value={speechRate}
+            onChange={(value) => setSpeechRate(value)}
+            style={{ width: 600, marginLeft: "10px" }}
+          />
+        </div>
         <br />
 
         <Button
