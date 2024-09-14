@@ -260,7 +260,7 @@ const Reader = () => {
             >
               Stop
             </Button>
-            {/* 
+            {/*
             <Button icon={<SaveOutlined />} onClick={saveProgress}>
               Save progress
             </Button> */}

@@ -1,0 +1,329 @@
+
+  Rozdział 6. Myśl i mowa
+ W tym rozdziale:
+ • Pomyślimy o myśleniu.
+ • Włączymy umysłowy komputer.
+ • Przetworzymy idee.
+ • Zrozumiemy pamięć.
+ • Opanujemy proces decyzyjny.
+ • Dowiemy się czegoś o inteligencji.
+ • Zrozumiemy język.
+ Zanim opowiem o złożonych psychologicznych kwestiach związanych z myśleniem, pozwól, że przedstawię Ci pewien mały eksperyment. Na początek wyobraź sobie, że leżysz w swoim łóżku, dopiero co wybudziwszy się z dobrego, głębokiego snu. Wyłączasz budzik, wstajesz i idziesz do łazienki. W tym momencie zaczyna robić się dziwnie. Po dotarciu do łazienki zapominasz, co właściwie w niej robisz. Teoretycznie wiadomo, po co ktoś tam idzie zaraz po obudzeniu, ale załóżmy, że Ty o tym zapomniałeś. Stoisz więc w środku i zastanawiasz się, gdzie jesteś. Nic nie wygląda znajomo, a wokół Ciebie znajduje się mnóstwo dziwnych kształtów, rzeczy, świateł i dźwięków. Patrzysz na jeden z
+    
+  przedmiotów odbijających widok czegoś, ale nie masz pojęcia, co tak właściwie widzisz. Ogarnia Cię poczucie zagubienia, zmieszania i dezorientacji. Twój umysł wydaje się całkowicie pusty. Nie masz nawet pojęcia, jak wezwać pomoc. Nie umiesz wyjść. Co robisz?
+ Powyższy przykład może wydawać Ci się nieco dziwaczny albo przynajmniej mocno abstrakcyjny, ale nie jest tak bez przyczyny. Sytuacja, owszem, byłaby bardzo dziwna. Co by się stało, gdyby człowiek stracił zdolność myślenia? Sytuacja w łazience dość dobrze oddaje ten problem. Nie można rozpoznać przedmiotów. Nie da się ich w żaden sposób nazwać. Nie można się komunikować. Człowiek jest wtedy w poważnych tarapatach, ponieważ nie wie nawet, jak skorzystać z łazienki.
+ W niniejszym rozdziale opiszę koncepcje myślenia (poznania) i języka, a także ich elementów składowych, takich jak uwaga, pamięć, podejmowanie decyzji, inteligencja, język (obejmujący mowę i języki niewerbalne, takie jak na przykład język migowy) oraz rozumienie.
+ Co masz na myśli?
+ Czym w zasadzie jest myśl? W dalszej części rozdziału poproszę Cię o przeanalizowanie własnego procesu myślowego, więc dobrze byłoby wcześniej wiedzieć, co się właściwie analizuje. W psychologii myślenie, czy też procesy myślowe, nazywa się poznaniem lub procesami poznawczymi. Zalicza się do nich umysłowe przetwarzanie informacji, takie jak zapamiętywanie, rozumowanie, rozwiązywanie problemów, konceptualizacja i wyobrażenia.
+ Studiowanie myślenia jest dość trudne. Dlaczego? Bo ciężko je zobaczyć! Gdybym otworzył Twoją czaszkę i zajrzał do środka, czy ujrzałbym myślenie? Skądże! Jedyne, co bym zobaczył, to pofałdowany, szaroróżowy organ (czyli mózg). We wczesnych latach
+ 
+  badań nad myśleniem psychologowie prosili uczestników o introspekcję, czyli obserwowanie i opisywanie wewnętrznych doświadczeń. Każdy z badanych dostawał proste zadanie matematyczne. Podczas rozwiązywania go miał głośno opowiadać. Tego typu badania miały na celu uchwycenie poszczególnych kroków procesu myślowego. Nie zapominaj przy tym, że duża część myślenia odbywa się poza kontrolą świadomości. W takim przypadku introspekcja nie zdałaby się na wiele.
+ Spróbuj zrobić to samodzielnie! Weź kartkę papieru i ołówek. Następnie rozwiąż poniższe zadanie matematyczne. Zapisuj każdy element procesu liczenia:
+ 47 876 + 23 989
+ Prawidłowa odpowiedź to 71 865. Nie przejmuj się, jeżeli wynik, który uzyskałeś, jest inny. Ćwiczenie nie polega bowiem na testowaniu zdolności matematycznych. Prawdę mówiąc, jeżeli rezultat jest nieprawidłowy, introspekcja może pomóc stwierdzić, w którym miejscu wystąpił błąd. Przejrzyj więc wszystkie kroki jeszcze raz, aby rozwiązać problem.
+ Właśnie zakończyliśmy eksperyment psychologiczny. Nic a nic nie bolało, prawda?
+ Teraz wyobraź sobie, jak trudno byłoby wykorzystać introspekcję do przeanalizowania wszystkich myśli. Właściwie to niemożliwe. Psychologowie nie korzystają z introspekcji m.in. dlatego, że jest ona narzędziem zbyt prostym i niepozwalającym uchwycić złożonych procesów poznawczych. Obecnie umysł bada się za pomocą modeli komputerowych i innych skomplikowanych metod. Ich głównym zadaniem jest stworzenie systemów, które będą naśladować ludzki sposób myślenia.
+ Podłącz się do komputera
+  
+  Badanie mechanizmów ludzkiego rozumowania interesowało uczonych już od starożytności. Zagadnieniem tym zajmowali się m.in. Arystoteles i Kartezjusz. Wielu badaczy próbowało przedstawić myślenie za pomocą różnych metafor. Umysł porównywano zatem do silnika parowego, mechanizmu zegarowego, a nawet do komputera. W niniejszej sekcji przedstawię współczesną koncepcję. Zgodnie z nią umysł i myślenie są traktowane jako przetwarzanie danych, w którym manipulowanie reprezentacji informacji odbywa się tak jak w procesie myślowym.
+ Przetwarzanie danych
+ Kiedy na świecie pojawiły się pierwsze komputery, psychologowie i inni badacze zaczęli przyglądać się bliżej metodom działania tych urządzeń w nadziei, że pomoże to poznać sposób funkcjonowania ludzkiego mózgu. Pomysł ten okazał się strzałem w dziesiątkę. Badania pozwoliły na opracowanie tzw. obliczeniowo- reprezentacyjnego modelu umysłu (i myślenia), który jest jednocześnie bardzo prosty i niezwykle przydatny. Zgodnie z nim umysł i wszystkie jego złożone procesy, takie jak postrzeganie, myślenie lub rozwiązywanie problemów, są w rzeczywistości elementami składowymi jednej wielkiej „maszyny”. Jej główne zadanie polega na przetwarzaniu informacji.
+ Proces ten sprowadza się przede wszystkim do manipulowania symbolami zgodnie z pewnymi ustalonymi regułami przekształcania jednych znaków w inne. Za przykład niech posłuży następujące przyporządkowanie liter Ł, W, S, A i O kolejnym cyfrom:
+ Ł= 1 W= 2 S =3 A =4 O =5
+ 
+  W takim układzie wyraz „słowa” będzie reprezentowany przez ciąg „31524”, zaś „włosa” — przez ciąg „21534”. Przekształcenie takie jest właśnie przetwarzaniem danych. Mózg, jako „urządzenie” dokonujące tego typu operacji, zamienia jeden rodzaj informacji (na przykład fale świetlne lub poszczególne litery wyrazu „słowa”) na inne rodzaje informacji (jak choćby impulsy nerwowe lub ciągi cyfr, jak w przykładzie powyżej).
+ Reprezentacja
+ Przetwarzanie informacji wykonywane jest na reprezentacjach umysłowych, które stanowią pojawiający się w mózgu symbol konkretnego bodźca (na przykład drzewa). Na potrzeby niniejszej książki będę stosować słowo „symbol” w bardzo potocznym sensie, a więc jako coś zastępujące inną rzecz. Za przykład weźmy drzewo. Jego widok będzie symbolizowany w mózgu przez aktywację konkretnych neuronów.
+ Usiądź wygodnie i przywołaj wizję różowej róży. Wyobraź sobie ten obraz jak najdokładniej, spróbuj zwizualizować zieloną łodygę i liście, różowe płatki, kolce i pozostałe części kwiatu. Postaraj się o jak największą liczbę szczegółów. Jeżeli ktoś wszedłby teraz do pokoju i zapytał, czy znajduje się w nim róża, to co byś odpowiedział? Gdyby kwiatu nie było, odparłbyś: „Nie”. Ale mimo to róża tam jest, choć tylko w Twoim umyśle. Gdybym więc rozciął Twój mózg, to czy mógłbym zobaczyć ów kwiat? Oczywiście, że nie! Róża „istnieje” wyłącznie jako symboliczna reprezentacja w umyśle.
+ Myślenie składa się z symboli reprezentujących informacje o świecie i istniejących w nim rzeczach oraz z przeprowadzanych na nich operacji mentalnych. Działalność umysłowa polega na łączeniu, dzieleniu i zmianie symboli w bardziej złożone szeregi, mające określone znaczenie. Weźmy jako przykład słowo „lampa”. Po
+  
+  przestawieniu tworzących je liter uzyskamy słowo „palma”, oznaczające inną rzecz, której reprezentacja jest zupełnie odmienną formą myśli. Mam nadzieję, że udało Ci się zauważyć, że nawet tak prosty system jak alfabet może być podstawą niemalże nieskończonej liczby symboli czy reprezentacji o różnorodnych znaczeniach.
+  Wyzwanie Turinga
+ Alan Turing (1912 – 1954), brytyjski matematyk i informatyk, który wsławił się m.in. pomocą w łamaniu kodów niemieckiej maszyny szyfrującej Enigma w czasie II wojny światowej, jest pomysłodawcą tzw. testu Turinga. W jego czasach popularna była gra salonowa polegająca na umieszczeniu za zasłoną kobiety i mężczyzny. Pozostali uczestnicy zabawy mogli się z nimi komunikować za pomocą napisanych na maszynie kartek. Zadaniem graczy było odgadnięcie, za którą zasłoną znajduje się mężczyzna, a za którą kobieta, wyłącznie na podstawie ich odpowiedzi na zadawane pytania. Turing zmodyfikował zasady gry — zamienił mężczyznę i kobietę na człowieka i komputer.
+ Omawiany test zakłada, że jeżeli ludzie nie będą w stanie stwierdzić na podstawie odpowiedzi, czy rozmawiają z człowiekiem, czy z maszyną, dany komputer można uznać za inteligentny. Innymi słowy, urządzenie byłoby w stanie dokonać „reprezentacji” ludzkiego umysłu w sposób dla siebie charakterystyczny, na przykład za pośrednictwem architektury sprzętowej bądź języka programowania. Test Turinga obrazuje mechanizm przetwarzania symboli lub reprezentacji i stanowi analogię tego, w jaki sposób mózg człowieka może przetwarzać symbole i tworzyć mentalne reprezentacje otaczającego go świata.
+ Skąd biorą się wszystkie te symbole? Otóż powstają w wyniku obserwacji świata. Kiedy widzę różę i o niej myślę, w moim umyśle pojawia się odpowiednia reprezentacja symboliczna. Na potrzeby niniejszej książki będę definiował myślenie następująco: jest to
+ 
+  przetwarzanie informacji rozumianych jako operacje na reprezentacjach pojawiających w mózgu.
+ Przetwarzanie informacji
+ Przetwarzanie informacji w umyśle dzieli się na następujące etapy:
+ 1. Informacja o bodźcu płynąca z narządów zmysłu dociera do umysłu (po raz pierwszy widzisz tańczącego Michaela Jacksona).
+ 2. Analizowane jest znaczenie tej informacji (mózg myśli: „Ale odjechany taniec”).
+ 3. Generowane są różne możliwe odpowiedzi (umysł stara się zrozumieć, w jaki sposób Jackson osiąga taki efekt).
+ 4. Odpowiedź zostaje sformułowana i jest testowana na okoliczność sprzężenia zwrotnego (zdejmujesz buty i próbujesz powtórzyć taniec na podłodze w kuchni).
+ Te podstawowe mechanizmy myślenia nazywane są czasami architekturą myśli. Definiują one też zasady rozumowania i wymagają następujących komponentów:
+ • Informacja wejściowa — dane sensoryczne odbierane ze świata lub pochodzące prosto z umysłu.
+ • Pamięć — system niezbędny do gromadzenia wiedzy. Informacje na temat świata są zgromadzone w umyśle i pamięci. Znajdują się tam daty urodzin, nazwiska i inne szczegóły.
+ • Operacje — zasady określające sposób wykorzystywania informacji zgromadzonych w pamięci (na przykład rozumowanie, rozwiązywanie problemów lub analiza logiczna). Dobrym przykładem jest liczenie. Jeżeli mam w pamięci sto liczb i staję przed problemem matematycznym, operacje pomagają mi go rozwiązać.
+ 
+  • Informacje wyjściowe — „programy” działania. Ich zadaniem jest informowanie pozostałej części umysłu i ciała, co robić po zakończeniu operacji myślowych.
+ Badanie działania umysłu
+ Jerry Fodor (ur. 1935), filozof amerykański (jakże to, czyżbym zamierzał uwzględnić tu opinię kogoś, kto nie jest psychologiem? Toż to herezja!), zaproponował koncepcję umysłu rozumianego jako złożony system przetwarzania danych, podzielony na różne moduły, które wykonują ściśle określone operacje. Przykładami mogą być moduł uwagi lub moduł rozwiązywania problemów. W poniższych sekcjach postaram się opisać najważniejsze operacje zachodzące w umyśle. Należą do nich uwaga, pamięć, tworzenie koncepcji i rozwiązywanie problemów.
+ Skupianie uwagi
+ Głupi i głupszy (1994) to jeden z moich ulubionych filmów. Szczególnie podoba mi się w nim scena, w której Harry (Jeff Daniels) opowiada Lloydowi (Jim Carrey) o tym, jak w liceum zerwała z nim dziewczyna.
+ Mówi mianowicie, że rzuciła go dlatego, że chyba nie zwracał uwagi na to, co ona ma mu do powiedzenia, ale nie jest pewien, o co tak naprawdę poszło, bo nie słuchał jej zbyt uważnie.
+ Uwaga to jeden z najbardziej podstawowych i najważniejszych procesów umysłowych. Świat jest bowiem wielkim kalejdoskopem kolorów, dźwięków, ruchów, błysków, obiektów i innych ustawicznie zmieniających się elementów. Nie da się postrzegać wszystkich naraz, więc musimy w jakiś sposób zawęzić pole percepcji. Jak jednak możemy tego dokonać?
+ Uwaga, będąca częścią procesu przetwarzania informacji, jest definiowana jako proces poznawczy
+ 
+   polegający na wybieraniu z otoczenia bodźców oraz danych do dalszego przetwarzania przy jednoczesnym odrzucaniu innych. W naszym otoczeniu znajduje się bowiem tak wiele informacji, że skuteczne przetwarzanie ich wymaga uprzedniej selekcji.
+ Psychologowie Daniel Simons i Christopher Chabris przeprowadzili znany eksperyment poświęcony uwadze. Prosili oni mianowicie badanych, aby obejrzeli krótki film pokazujący ludzi rzucających do siebie piłkę do koszykówki. Mieli przy tym liczyć kolejne podania. W połowie nagrania w kadr wchodził człowiek w stroju goryla, bębnił się pięściami w pierś, po czym wychodził. Kiedy badacze zapytali uczestników eksperymentu o to, czy zauważyli coś nietypowego, 50% z nich nie miało pojęcia o tym, że na filmie pojawił się niespodziewany gość. Jak widać, silne skupienie na jakiejś czynności skutecznie utrudnia dostrzeganie zjawisk niezwiązanych z przedmiotem koncentracji (zjawisko to czasem nazywa się ślepotą z nieuwagi). Zasada ta leży u podstaw skutecznych w większości pokazów prestidigitatorskich. Cóż, nie wierzę w to, że David Copperfield dysponuje mocami magicznymi, ale cenię jego zdolność do manipulowania uwagą widzów!
+ Istnieją dwa rodzaje procesów uwagi:
+ • uwaga skupiona – koncentracja na jednym przedmiocie przy całkowitym ignorowaniu innych;
+ • uwaga podzielona – skupienie na dwóch lub trzech czynnościach jednocześnie.
+ Psycholog David Broadbent opracował poznawczy model uwagi, w którym scharakteryzował ją jako kanał o ograniczonej przepustowości, przez który przechodzą wszystkie dostarczane informacje. W pierwszej kolejności przetwarzane są dane sensoryczne (z ośrodków zmysłów), następnie zaś semantyczne (określające znaczenie). Podstawą modelu Broadbenta było
+ 
+  założenie, że informacje muszą zostać przepuszczone przez filtr uwagi, zanim możliwe będzie ich dalsze przetwarzanie.
+ Model ten nie daje niestety pełnego wyjaśnienia. Dlatego też opracowano inne koncepcje uwagi. Jedno z badań pozwoliło odkryć tzw. efekt cocktail party, stojący w opozycji do teorii Broadbenta. Polega on na tym, że większość osób jest w stanie usłyszeć swoje imię wypowiadane na drugim końcu pokoju, nawet jeżeli w danej chwili zajmuje się rozmową. Obserwacja ta pozwala założyć, że umysł reaguje przede wszystkim na bodźce, jakie uważa za istotne.
+ Eksperymenty psychologów poznawczych pomogły w zdefiniowaniu uwagi jako procesu dynamicznego, w którym podział na elementy zatrzymywane i dopuszczane do dalszego przetwarzania odbywa się jednocześnie. Teoria poszukiwania sterowanego zakłada z kolei dynamiczny model uwagi. A zatem poszukiwanie pożądanych elementów jest kierowane nieuświadamianą informacją pochodzącą z poprzednich wyszukiwań bądź z świadomie przetwarzanych danych. W tym przypadku zakłada się, że proces selekcji ma charakter bardziej aktywny i świadomy niż bierny, jak w teorii Broadbenta.
+ Pamięć — podobno najważniejsza
+ Myślenie opiera się na operowaniu symbolami umysłowymi przechowywanymi jako koncepcje, czyli reprezentacje obiektów spotykanych w świecie zewnętrznym. Gdzie są one gromadzone? Oczywiście w pamięci!
+ Działanie pamięci można dobrze objaśnić na przykładzie banku. Wyobraź sobie zatem swój bank. Większość z nas posiada rachunek rozliczeniowy, ale wiemy też, że istnieją inne rodzaje rachunków, z których każdy działa na nieco innych zasadach. Ogólnie rzecz biorąc, banki przechowują i zabezpieczają nasze pieniądze, jednocześnie używając ich dla swoich celów. Rachunki rozliczeniowe służą do codziennego korzystania z posiadanych środków, zaś rachunki oszczędnościowe są wykorzystywane do oszczędzania
+ 
+  przez dłuższy okres. Nasza pamięć również „magazynuje” informacje na wiele różnych sposobów.
+ Istnieją trzy osobne stadia przechowywania danych w umyśle: pamięć sensoryczna, pamięć krótkotrwała i pamięć długotrwała.
+ Pamięć sensoryczna
+ Pamięć sensoryczna przechowuje informacje napływające bezpośrednio z narządów zmysłów. Spróbuj popatrzeć przez chwilę na słońce, a następnie zamknij oczy i odwróć wzrok. Obraz słońca jeszcze przez chwilę istniał w Twoim umyśle. Powidok taki jest wynikiem działania pamięci ikonicznej (analogiczne zjawisko w odniesieniu do dźwięku nosi nazwę pamięci echoicznej). Fenomen ten zachodzi na tyle szybko, że bywa uznawany za element procesu postrzegania (więcej informacji o postrzeganiu znajdziesz w rozdziale 5.), ale w rzeczywistości stanowi jeden z aspektów działania pamięci.
+ Pamięć krótkotrwała
+ Pamięć krótkotrwała (PK) zawiera informacje, które są w danej chwili dostępne świadomości. Przykładami mogą być: światło odbijające się od strony w książce, czytane słowa, burczenie w brzuchu czy odgłosy ulicy za oknem. Informacje niedostępne świadomości mogą być umieszczone w pamięci długotrwałej lub po prostu zostać zapomniane.
+ Jak wiele danych jest w stanie pomieścić PK? Ogólnie uznaje się, że przeciętnie siedem elementów przy odchyleniu standardowym wynoszącym dwa. Zasada ta zwana jest czasem „zasadą magicznej siódemki” lub pojemnością PK.
+ Czy to oznacza, że w PK można umieścić wyłącznie siedem słów, siedem liczb czy siedem innych obiektów? Niekoniecznie. Dzięki procesowi zwanemu porcjowaniem jesteśmy w stanie zapamiętać znacznie więcej. Klasyczny przykład stanowi wykorzystanie mnemotechniki. Polega ono na rozkładaniu dużych porcji informacji na wiele drobnych czynników. Dzięki temu łatwiej je zapamiętać.
+ 
+   Oto proste narzędzie mnemotechniczne. Jeżeli masz listę obiektów do zapamiętania, ułóż łatwe do zapamiętania zdanie z pierwszych liter każdego z nich. Sam ze szkoły pamiętam następujące: „Ostrożnie, Bycie Astronomem Faktycznie Grozi Kalectwem Mózgu”. Wiesz, co oznacza to zdanie? Ci, którzy pamiętają coś z zajęć z astronomii, zapewne zauważyli, że pierwsze litery wyrazów tworzą ciąg zgodny z szeregiem oznaczeń jasności gwiazdowych (OBAFGKM).
+ Informacje są przechowywane w PK około 18 sekund. Czas ten można wydłużyć wyłącznie poprzez utrwalanie wiadomości, czyli ciągłe powtarzanie (w myślach bądź na głos) treści, która nadal znajduje się w pamięci krótkotrwałej. To dość skuteczna metoda, choć nie tak dobra jak wymagające więcej wysiłku stosowanie techniki mnemotechnicznej, na przykład opisanej powyżej.
+ Pamięć długotrwała
+ Jeżeli informacje w PK będą powtarzane odpowiednio długo, po pewnym czasie trafią do magazynu pamięci długotrwałej (PD). Taki efekt pozwalają osiągnąć:
+ • Okazjonalne powtórki. Przenoszenie danych z PK poprzez mechaniczne powtarzanie do chwili, aż znajdą się w pamięci długotrwałej.
+ • Szczegółowe powtórki. Umysłowe przetwarzanie i rozwijanie informacji. W efekcie zostaje ona zintegrowana z danymi przechowywanymi w pamięci. Dużo łatwiej przypomnieć sobie informację, która ma konkretne znaczenie i wiąże się z czymś, co już wiemy.
+ Im intensywniej przetwarzasz daną informację, wiążąc ją z innymi znanymi sobie faktami, tym lepiej jesteś w stanie ją zapamiętać.
+ 
+   PD dzieli się na trzy podstawowe rodzaje. Oto one:
+ • Pamięć epizodyczna. Przechowuje informacje o wyjątkowych zjawiskach i sytuacjach dostępnych wyłącznie naszemu doświadczeniu (urodziny, daty ślubu, ukończenie uczelni, wypadki samochodowe itp.).
+ • Pamięć semantyczna. Zawiera dane dotyczące faktów — daty ważnych świąt, imię i nazwisko obecnego prezydenta czy własny numer PESEL.
+ • Pamięć proceduralna. Przechowuje takie informacje, jak sposób jeżdżenia na rowerze, rozwiązywania zadań matematycznych czy sznurowania butów.
+ Teoretycznie rozmiar i trwałość PD są nieograniczone, ponieważ naukowcy nie odkryli jeszcze sposobu, w który mogliby ją zmierzyć. Wystarczy zatem pamiętać, że pojemność jest wystarczająco duża, by zapamiętać wszystko, co trzeba. To dość dziwne, zważywszy na fakt, ile informacji zapominamy. Jeżeli wszystko zostało zachowane, to dlaczego pewnych rzeczy nie jesteśmy w stanie sobie przypomnieć?
+ Zapominanie informacji przechowywanych w PD polega raczej na niemożności ich przywołania, a nie na faktycznej utracie danych. Istnieją dwa zasadnicze problemy z dostępem do pamięci. W obu przypadkach przyczyną jest oddziaływanie innych danych.
+ • Interferencja retroaktywna. Polega na kłopotach z przypominaniem sobie starszych informacji, ponieważ wciąż pojawiają się nowe.
+ 
+  • Interferencja proaktywna. Polega na trudności z przypominaniem sobie nowych danych, ponieważ na ich drodze pojawiają się te zapamiętane wcześniej.
+ Kiedy więc przy najbliższej okazji będziesz oglądać ulubiony serial, postaraj się zapamiętać szczegóły pierwszych 10 – 12 minut, środkowych 10 – 12 minut i końcowych 10 – 12 minut. Albo po najbliższym wykładzie spróbuj przypomnieć sobie, co wykładowca mówił na początku, w środku i pod koniec wystąpienia. Możesz wtedy doświadczyć czegoś, co psychologowie nazywają efektem pozycyjnym. Polega ona na tym, że łatwiej jest zapamiętać początek i koniec jakiegoś zdarzenia niż jego środek. Dlaczego tak się dzieje?
+  Zapomnij!
+ Czy kiedykolwiek ktoś Ci mówił, żeby o czymś po prostu zapomnieć? Powiem tak: spróbuj zapomnieć o żółtym serze. Podziałało? Czy udało Ci się zapomnieć albo nie myśleć o tym produkcie? Paradoks porady „zapomnij o...” polega na tym, że dopóki o czymś myślimy, nie jesteśmy w stanie o tym zapomnieć. Zapomnij więc o tej nieskutecznej radzie. Jeżeli chcesz o czymś zapomnieć, na pewno nie trzeba Ci o tym przypominać!
+   Efekt pozycyjny spowodowany jest tym, że informacja z początku wykładu na ogół zostaje umieszczona w pamięci długotrwałej z racji mijającego czasu. Dane z końca zajęć przebywają zaś w pamięci krótkotrwałej, ponieważ są nowe. A informacje ze środka? Cóż, po prostu znikły.
+ Konceptualizacja
+ Kiedy ostatni raz zdarzyło Ci się wyjść gdzieś z przyjaciółmi, aby po prostu porozmawiać? Czy poszliście do kawiarni? Czy
+ 
+  rozmawialiście o ostatnich romansach i Twoich nieudanych związkach? Czy dyskutowaliście o polityce lub pogodzie? W zasadzie temat nie ma znaczenia, ponieważ i tak rozmawialiście o koncepcjach.
+ Koncepcja to idea lub myśl reprezentująca zespół związanych z nią przemyśleń. „Romans” jest koncepcją. „Związek” jest koncepcją. „Polityka” jest koncepcją. „Pogoda” jest koncepcją. Pamiętaj, że w procesie przetwarzania systemu myśli koncepcje są reprezentowane przez symbole. W jaki sposób się tam dostały? Uczymy się ich. Koncepcje są generowane i formowane. Jeśli pewne obiekty mają wspólne cechy, reprezentują identyczną ideę. Niektóre koncepcje są dobrze zdefiniowane, inne zaś gorzej.
+ Przyjrzyj się poniższym wyrazom: ogon, sierść, zęby, cztery nogi.
+ Co one opisują? Może to być kot, pies, lew lub niedźwiedź. Prawdę mówiąc, nie da się tego określić na podstawie tych czterech słów. Brakuje pewnych kluczowych szczegółów, które jasno i wyraźnie definiowałyby koncepcję i oddzielały ją od innych idei.
+ Teraz przyjrzyj się następującym słowom: ogon, sierść, zęby, cztery nogi, szczeka.
+ Jakie zwierzę zostało opisane? Prawie na pewno chodzi o psa. Czemu? Koty, lwy i niedźwiedzie nie szczekają. Słowo „szczeka” dokładnie identyfikuje koncepcję „psa”, więc stanowi jego cechę dystynktywną. Ten element jest niezbędny w zbiorze cech, aby ten mógł zostać rozpoznany jako przykład konkretnej koncepcji. Popatrz teraz na poniższe wyrażenia:
+ pióra, dziób, jaja, latanie.
+  
+  Co opisują te słowa? Chwileczkę... Czy nie istnieją dwa gatunki ptaków nielotów, czyli strusie i pingwiny? Co z nimi? Nie latają, ale wciąż są ptakami. Z tego powodu zdolność latania nie stanowi cechy dystynktywnej. Zwierzę nie musi bowiem jej posiadać, aby być zaliczone w poczet ptaków. To cecha, którą posiada większość osobników danej grupy, ale nie wszystkie. Latanie jest zatem dla ptaków cechą charakterystyczną. Oznacza to, że posiada ją większość przedstawicieli grupy, lecz nie wszystkie.
+ Pomyśl teraz o krześle. Spróbuj je sobie wyobrazić, przedstawić. Teraz opisz to wymyślone krzesło (najlepiej komuś, bo widok człowieka opowiadającego samemu sobie o wyimaginowanym meblu wydaje się dość niepokojący). Najprawdopodobniej jest ono drewniane, ma cztery nogi, prostokątne lub kwadratowe siedzisko oraz oparcie zbudowane z dwóch pionowych elementów, pomiędzy którymi umieszczono kilka poziomych. Tak wygląda typowe krzesło. Jest powszechne. Prawdę mówiąc, można uznać je za prototyp krzesła. Prototyp to najbardziej typowy przedstawiciel określonej kategorii obiektów bądź zjawisk. Jest kwintesencją koncepcji przedstawianego elementu.
+ Na wczesnym etapie rozwoju atrybuty kategorii są rozbudowywane poprzez stopniowe dołączanie do nich kolejnych prostych cech, które następnie łączą się w większe jednostki. Dzieje się tak do momentu, aż koncepcyjna sieć informacji o obiektach w Twoim świecie urośnie do gigantycznych rozmiarów. Wszyscy jednak wiemy, że nasze myślenie bywa bardziej złożone niż rozumienie poszczególnych słów. Niedługo później zaczynamy więc łączyć
+  
+  koncepcje oparte na słowie w koncepcje zdaniowe, te zaś razem tworzą koncepcje opisywane przez całe akapity itd. Przyjrzyj się temu procesowi, który nieustannie się rozbudowuje.
+ Popatrz teraz na poniższy przykład procesu, który nadbudowuje kolejne warstwy przetwarzania:
+ • Propozycja: „Wojna jest piekłem” to przykład dwóch koncepcji: „wojny” i „piekła” oraz ich związku.
+ • Model umysłowy: człowiek buduje modele umysłowe, unifikując różne propozycje, aby ułatwić sobie zrozumienie, w jaki sposób poszczególne elementy łączą się ze sobą. Oto przykład:
+ • Wojna jest piekłem.
+ • Druga wojna światowa była wojną.
+ • Druga wojna światowa była piekłem.
+ • Schemat: Schematy to podstawowe jednostki zrozumienia reprezentujące świat. Stanowią wynik organizowania modeli umysłowych w większe grupy. Przykład może wyglądać następująco: „Część żołnierzy walczących podczas drugiej wojny światowej doznało urazów psychicznych. Niektórzy ludzie wierzą, że było to wywołane samą naturą wojny. Część mówi nawet, że wojna jest piekłem”.
+ Innym przykładem niech będzie koncepcja „książki”. Połącz ją teraz z inną ideą, taką jak czytanie. Następnie dodaj do nich jeszcze jedną, na przykład bibliotekę. W ten sposób otrzymujesz trzy związane ze sobą koncepcje: książki, czytania i biblioteki. Mogą one pomóc stworzyć propozycję studiowania (przeciwstawianego czytaniu dla przyjemności). Studiowanie może z kolei zostać włączone w skład większych podziałów czy schematów, takich jak szkoła lub uczęszczanie do szkoły.
+ 
+  Koncepcje są tworzone z cech występujących wspólnie w danym doświadczeniu i reprezentują idee we wzajemnych relacjach. Oznacza to, że aby zrozumieć, pojąć lub opanować znaczenie koncepcji, umysł reprezentatywny musi odwołać się do innych koncepcji.
+ Każdy, kto często przebywa z dziećmi, wie, jak ciężko jest wyjaśnić pewne koncepcje lub pojęcia maluchom. Nie potrafią one bowiem odnieść zasłyszanych słów do posiadanej już wiedzy.
+ Dziecko: Co to jest komputer?
+ Rodzic: Komputer to... eee... hmmm... taki telewizor... ale...
+ hm... można na nim pisać.
+ Dziecko: Co to znaczy „pisać”? Teraz rozumiesz?
+ Niektórzy kognitywiści i psychologowie znaleźli sposób na wydostanie się z tej pułapki. Zasugerowali mianowicie, że wszystkie koncepcje są wrodzone. Jednym z najciekawszych i owocnych podejść do tego problemu okazały się teorie poznania wrodzonego (PW) i symulacji wrodzonej (SW).
+ U podstaw PW i SW leży założenie mówiące, że umysł człowieka rozumie lub pojmuje koncepcje za sprawą pewnej symulacji. Wykorzystuje ona motoryczne i percepcyjne elementy mózgu w celu stworzenia reprezentacji doświadczenia. Symulacja taka pozwala pojąć koncepcję, ponieważ ludzie rozumieją idee poprzez odniesienie do związanych z nimi wrażeń cielesnych.
+ Sięgasz wyżej, niż możesz.
+ To było jak wymierzenie policzka.
+ To doświadczenie otworzyło mi oczy.
+ Powyższe wyrażenia dobrze oddają ideę PW i SW. Ich znaczenie staje się jasne w kontekście tworzących je doświadczeń cielesnych, zmysłowych i motorycznych. Jeżeli zatem chcę pojąć coś nowego, korzystam z wymienionych wyżej doświadczeń. Przykładowo
+ 
+  rozumiem znaczenie stwierdzenia „doświadczenie otwierające oczy”, ponieważ nieraz otwierałem oczy i wiem, co się w takiej chwili dzieje.
+ Co ciekawe, zwolennicy PW/SW twierdzą, że obszary mózgu odpowiedzialne za faktyczne otwieranie oczu, poruszanie rękami bądź postrzeganie wschodu słońca są dokładnie tymi samymi, które pozwalają skonceptualizować sens wyrażeń takich jak „doświadczenie otwierające oczy”. Teoria poznania wrodzonego i symulacji wrodzonej jest wciąż młoda, ale wydaje się bardzo obiecująca, dlatego też interesuje wielu współczesnych badaczy.
+ Podejmowanie decyzji
+ Skręcić w lewo i spóźnić się pięć minut czy skręcić w prawo i mieć nadzieję, że przyjedzie się na czas, chociaż równie dobrze można tam trafić na korek i spóźnić się 20 minut? Wiele osób staje przed takimi dylematami w drodze do pracy. Każdego dnia zastanawiamy się, jak przybyć do niej punktualnie, a jednocześnie skrócić czas podróży do minimum i przeżyć jak najmniej stresu. Jest to zatem problem, który należy rozwiązać. W tym celu trzeba podjąć decyzję. Czasami robimy to w sposób racjonalny, czasami nie.
+ Każdego dnia rozwiązujemy wiele problemów, podejmując przy tym setki, jeśli nie tysiące decyzji. Istnieje nawet zjawisko noszące nazwę „zmęczenia decyzyjnego”, które polega na wyczerpaniu nadmierną liczbą dokonywanych wyborów w danym czasie. Niekiedy są to decyzję pomiędzy życiem a śmiercią i faktycznie, wiążą się z ogromnym obciążeniem. Jednak nawet małe, codzienne wybory wyczerpują, jeżeli jest ich zbyt wiele.
+ Podejmowanie decyzji to akt wyboru jednej z dostępnych możliwości działania na podstawie danych strategii i kryteriów. Badania poświęcone temu zagadnieniu to szeroka, multidyscyplinarna dziedzina, czerpiąca z ekonomii, politologii, informatyki, zarządzania i marketingu. Oczywiście zawsze można też podejmować decyzje za pomocą rzutu monetą. Ja czasami tak robię.
+ 
+  Pracowałem kiedyś w miejscu, gdzie najważniejszym wyborem dokonywanym przez pracowników było wskazywanie lokalu, do którego mieliśmy pójść na lunch. W tym celu kręciliśmy kołem z wypisanymi nazwami restauracji i szliśmy do lokalu, na jakim się ono zatrzymało. Przynajmniej w teorii. Często bowiem dyskutowaliśmy o wyniku losowania i ostatecznie decydowaliśmy, że pójdziemy w inne miejsce, gdyż w jednym było dla nas za drogo, a w drugim serwowano to, co niektórzy jedli poprzedniego dnia. Historia ta uwydatnia jeden z podstawowych faktów związanych z dokonywaniem wyborów: ludzie mogą to robić na wiele różnych sposobów, prezentując rozmaite podejścia.
+ Wybór
+ Rzut monetą stanowi pewny sposób wyboru jednej z możliwości. Nie jest to jednak proces poznawczy. Uzależniając swoją decyzję od rzutu, zdajemy się na los. De facto więc nie dokonujemy wyboru. Ludzie decydują się jednak na różne opcje, korzystając z procesów takich jak intuicyjne podejmowanie decyzji. Oznacza ono wybór możliwości najlepiej znanych, najprostszych bądź w inny sposób preferowanych. Jestem pewien, że obserwujesz takie zachowanie także u siebie, chociaż czasami decydowanie się na wspomniane opcje to nie najlepsze rozwiązanie. Przypomnij sobie, kiedy ostatni raz zdarzyło ci się zjeść za dużo, co poskutkowało pewnymi dolegliwościami.
+ Decyzje można również podejmować na podstawie dowodów empirycznych, poprzez metodę prób i błędów, eksperyment, szacowanie, doświadczenie bądź konsultację z ekspertem. Recenzje w pismach fachowych dostarczają danych doświadczalnych, które pomagają w wyborze sprzętu kuchennego bądź kosmetyków.
+ Jeżeli musisz podjąć wiele decyzji w krótkim czasie, rozważ zastosowanie jednej z heurystyk, czyli swego rodzaju skrótu opartego na pewnych zasadach i stwierdzeniach opisujących otoczenie. Działanie etyczne można uznać za heurystykę powstałą na podstawie ściśle zdefiniowanego systemu etycznego bądź
+ 
+  religijnego. U mnie proces podejmowania decyzji może zatem uwzględniać moje przekonania religijne.
+ Amos Tversky i Daniel Kahneman badali heurystyczne dokonywanie wyborów. Określili różne rodzaje takiego modelu decyzyjnego. Poniżej dwa powszechnie stosowane:
+ • Heurystyka reprezentacji — dokonywanie wyboru na podstawie sytuacji podobnej do tej, w której chcemy dokonać wyboru. Przykładowo kiedy zgubisz się w lesie podczas konnej przejażdżki, możesz zdecydować, że będziesz wracać po własnych śladach. Zaczynasz zatem rozglądać się wokół. Korzystając z heurystyki reprezentacji, decydujesz, że znalezione ślady należą do konia, ponieważ wiesz, jak one wyglądają. Nie jest jednak dobrze, jeżeli nie potrafisz rozpoznać odcisków łap niedźwiedzia!
+ • Heurystyka dostępności — podejmowanie decyzji na podstawie powszechnie dostępnych lub dobrze znanych informacji. Jest to wybór „pierwszej rzeczy, która przyszła na myśl”. Często podejmujemy decyzję, opierając się na ostatnio zgromadzonych danych. Kiedy na przykład postanawiamy rozpocząć dietę, wybieramy sposób odżywiania, który jest reklamowany bądź modny i dlatego często powtarzany w środkach przekazu lub między konsumentami. Dlatego też istnieje szansa, że zdecydujemy się na coś popularnego w danej chwili!
+ Rozumowanie
+ Aby rozwiązać problem na drodze rozumowania, potrzebne są dwa poniższe elementy:
+ • Przesłanki — wyrażenia dotyczące pewnych przedmiotów lub zdarzeń, wykorzystywane do poparcia wniosku. Stanowią one opis różnego rodzaju zjawisk, na przykład: „Wszystkie wozy strażackie są czerwone” czy: „Mój tata jeździ w pracy wozem strażackim”.
+ 
+  • Wnioski — stwierdzenia wynikające z przesłanek. Są one słuszne jedynie wtedy, gdy logicznie wynikają z przesłanek. W powyższym przykładzie wnioskiem sformułowanym na podstawie podanych przesłanek może być: „Mój tata jeździ w pracy czerwonym samochodem”.
+ Rozumowanie można zdefiniować jako proces myślowy polegający na wyciąganiu wniosków na bazie konkretnych przesłanek. Pomaga on określić, czy konstatacja jest słuszna i logiczna. Kiedy argumenty są racjonalne, rozumowanie można nazwać słusznym. Wniosek, że mój tata jeździ w pracy czerwonym wozem strażackim, jest logiczny, ponieważ wynika to z przesłanek.
+ Co by się jednak stało, gdyby rozumowanie przebiegało następująco: „Wszystkie wozy strażackie są czerwone, a mój tata jeździ w pracy czerwonym samochodem, więc mój tata jeździ w pracy wozem strażackim”? To nie jest logiczne! Pierwsza przesłanka informuje bowiem o tym, że czerwone są wszystkie wozy strażackie, a nie wszystkie ciężarówki w ogóle. Mój tata mógłby zatem równie dobrze jeździć czerwoną toyotą. Logika jest czymś w rodzaju miarki służącej do oceny poprawności rozumowania.
+ Istnieją dwa podstawowe rodzaje rozumowania:
+ • Indukcyjne. Rozpoczyna się ono od obserwacji (przesłanek) w celu pozyskania faktów mających potwierdzić lub obalić pewien hipotetycznie założony wynik (wniosek). Na przykład:
+ W poniedziałek padało.
+ We wtorek padało.
+ Wnioskuję więc, że w środę również będzie padać.
+ To przykład rozumowania indukcyjnego. Obserwacje i stwierdzenia są w tym przykładzie wykorzystywane do wyciągnięcia ostatecznego wniosku. Odnoszę wrażenie, że telewizyjni meteorologowie posługują się raczej rozumowaniem
+ 
+  indukcyjnym niż kosztowną aparaturą pomiarową, o której często wspominają.
+ • Dedukcyjne. Wykorzystuje ono przesłanki teoretycznie stanowiące dowody na potwierdzenie wniosku. Dedukcja jest z definicji słuszna, o ile tylko przesłanki odpowiadają prawdzie. Omawiany typ myślenia często rozpoczyna się na poziomie uogólnienia, a następnie zmierza do konkretów. Poniżej przedstawiam przykład dedukcji:
+ Każdy człowiek powinien być wolny. Jestem człowiekiem.
+ Dlatego powinienem być wolny.
+ Wniosek wynika logicznie z dwóch przesłanek, co jest oczywiste, zważywszy na ich treść. Poniżej przykład błędnej dedukcji:
+ Wszystkie kury składają jaja. Mój ptak złożył jajko. Dlatego mój ptak jest kurą.
+ Dlaczego to rozumowanie jest nieprawidłowe? Otóż dlatego, że pierwsza przesłanka odnosi się do konkretnej kategorii ptaków (tj. kur), zaś wykracza poza tę kategorię, obejmując wszystkie ptaki, więc dotyczy także elementów, które nie należą do wspomnianej kategorii (nie każdy ptak to kura). Jeżeli odwrócimy tę zależność, otrzymamy poprawny sylogizm:
+ Wszystkie ptaki składają jaja.
+ Moja kura złożyła jajo.
+ Zatem moja kura musi być ptakiem.
+ 
+  Ludzie czasami podejmują decyzje w bardzo dziwaczny sposób. Co się stało z racjonalnym, przemyślanym dokonywaniem wyborów? Cóż wymaga ono rozważenia zysków i strat, a następnie zdecydowania się na jedną z dostępnych opcji, której korzyści przewyższają koszty. Należy przy tym wziąć pod uwagę takie czynniki, jak przydatność, ryzyko, funkcjonalność i jakość.
+ Herbert Simon, słynny psycholog, zaproponował koncepcję ograniczonego rozumowania, opierającą się na założeniu, że chociaż ludzie często podejmują racjonalne decyzje, to rozsądek (a raczej zastosowanie) ma swoje granice. Według badacza otoczenie jest na tyle skomplikowane, że rozważenie każdej możliwej opcji okazuje się niewykonalne. Z tego powodu nasze decyzje muszą opierać się na ograniczonej ilości informacji, skrótach myślowych i rozsądnych szacunkach. Simon twierdzi przy tym, że to zupełnie normalne, gdyż tego typu ograniczenia są naturalne i pozwalają dokonywać dobrych, przemyślanych wyborów.
+ W swojej znanej książce Predictably Irrational: The Hidden Forces that Shape Our Decisions (2008) Dan Ariely odnosi się do przywołanej wyżej koncepcji ograniczenia rzeczywistości. W eksperymentach badacz ten przedstawił wiele sytuacji, w których decyzje nie tylko były podejmowane na podstawie niekompletnych informacji, ale czasami wykorzystywały także całkowicie irracjonalne mechanizmy i wątpliwej jakości dane. Wynika z tego, że ludzie czasami dokonują nielogicznych wyborów, co nie powinno nikogo dziwić. Ciekawe jest jednak to, że Ariely’emu udało się wykazać, iż nieracjonalne decyzje są podejmowane w stosunkowo powtarzalny sposób, gdyż opierają się na kilku prostych mechanizmach. Oto one:
+ • Względność. Wybór pomiędzy dwiema możliwościami bywa czasami oparty na relacji pomiędzy nimi, nie zaś na bezwzględnej jakości każdej z tych opcji. Przykładowo w wyborach prezydenckich głosujący często nie popierają żadnego z kandydatów, lecz wskazują tego, który jest „mniej nieodpowiedni”.
+ 
+  • Darmowość. Darmowe rzeczy są dobre, prawda? Cóż, nie zawsze. Czasami jednak decydujemy się na pewną możliwość, ponieważ wiąże się ona z jakimś gratisem, nawet jeżeli wcale nie będzie dla nas lepsza. Nie zawsze warto czekać w kolejce trzy godziny, aby otrzymać coś za darmo przy zakupie.
+ • Emocje. Decyzje podejmowane w chwili pobudzenia emocjonalnego znacząco różnią się od wyborów dokonywanych w spokoju. Teoretycznie wszyscy wiemy, że nie powinniśmy niczego postanawiać, gdy jesteśmy silnie wzburzeni lub radośni, ale w praktyce bardzo często o tym zapominamy. Decyzje podejmowane w stanie pobudzenia bardzo często zaś mijają się ze zdrowym rozsądkiem.
+ Zakłada się, że rozumowanie i zdolność do rozwiązywania problemów to dwie podstawowe umiejętności odróżniające ludzi od zwierząt. Innymi słowy, potrafimy myśleć racjonalnie, zwierzęta — nie. Wiem, że to dyskusyjna kwestia, zwłaszcza że przed chwilą pisałem o nieracjonalności niektórych ludzkich decyzji, ale zwróć uwagę, że pisałem o zdolności, nie o wynikach.
+ Rozwiązywanie problemów
+ Rozwiązywanie problemów jest dość proste. Ma się jakiś problem i się go rozwiązuje. Pamiętasz serial McGyver? Tytułowy bohater był w stanie rozwiązać dowolny napotkany problem. Z wykałaczki mógł zrobić odrzutowiec albo wyrzutnię rakiet. Zawsze oglądałem ten serial z wielkim podziwem dla McGyvera, a następnie wyjmowałem skrzynkę z narzędziami i próbowałem zmienić toster w odbiornik satelitarny tylko po to, by po czterech godzinach skończyć ze stertą części, za pomocą których nie dałoby się nawet przygotować tosta. Najwyraźniej amerykański majsterkowicz lepiej ode mnie znał się na radzeniu sobie z kłopotami.
+ Newell i Simon są uważani za ojców psychologii rozwiązywania problemów. Prawie każde prowadzone na ten temat badanie powołuje się na ich eksperymenty. Na podstawie wyników analiz
+ 
+  Newella i Simona (1972) można określić podstawowe etapy radzenia sobie z kłopotami:
+ 1. Rozpoznawanie istnienia problemu przypomina założenie, że człowiek nie może wyleczyć się z alkoholizmu, zanim nie przyzna, że faktycznie ma problem z piciem.
+ 2. Tworzenie reprezentacji problemu zawierającej stan początkowy i ewentualny cel.
+ 3. Ustalanie i ocenianie potencjalnych rozwiązań. 4. Wybór możliwej metody.
+ 5. Wprowadzenie rozwiązania w życie i określenie jego skuteczności.
+ Powyższe kroki skraca się czasem do akronimu IDEAL (Brandsford i Stein, 1993):
+ „I” — identyfikacja problemu,
+ „D” — zdefiniowanie i przedstawienie go, „E” — badanie możliwych strategii,
+ „A” — akcja,
+ „L” — logiczna implementacja.
+ Strategii rozwiązywania problemów jest pewnie tyle samo, co samych problemów, chociaż większość z nas wykorzystuje w życiu jedynie kilka z nich. Wiemy, jak stosować metodę prób i błędów. Widziałem małe dzieci korzystające z tej techniki, kiedy usiłowały zmieścić klocki w pasujące otwory. Podnosiły element w kształcie koła i próbowały ze wszystkimi szczelinami do momentu osiągnięcia sukcesu. To samo robiły z pozostałymi klockami.
+ Strategia ta jest mało wydajna, ale czasami okazuje się jedyną dostępną opcją. Metoda prób i błędów znajduje zastosowanie w
+  
+  sytuacji, gdy problem nie został należycie zdefiniowany i trzeba rozpoznać, co w zasadzie wymaga naprawy.
+ Poniżej przedstawiam kilka popularnych technik radzenia sobie z kłopotami.
+ • Analiza celów i środków. Ta strategia opiera się na rozkładaniu problemu na mniejsze części i rozwiązywaniu ich po kolei w celu osiągnięcia głównego celu.
+ • Działanie wstecz. Ten sposób rozwiązywania problemów przypomina rozłożenie czegoś na części i złożenie z powrotem w celu zrozumienia, jak dany obiekt został zbudowany.
+ • Burza mózgów. Technika polegająca na tworzeniu jak największej liczby rozwiązań bez żadnej ingerencji w ten proces. Niezależnie od przydatności, adekwatności czy sensu pomysłów umieszcza się je w puli i rozważa dopiero po zamknięciu listy propozycji, kiedy nikt nie jest w stanie niczego do niej dodać. Nawet mój pomysł z wezwaniem Supermana, który swoim lodowym oddechem powstrzymałby globalne ocieplenie, nie mógłby zostać zakwestionowany przed analizą.
+ • Analogie i metafory. Te strategie zakładają wykorzystanie równoległego bądź podobnego problemu, który został już rozwiązany, i znalezienie analogii do istniejącej sytuacji. Kryzys kubański był czymś w rodzaju gry w cykora. Przegrywa w niej ten, kto spuści wzrok albo zrobi unik. Sądzę, że prezydent Kennedy dobrze umiał grać w tę grę.
+ Myślisz, że jesteś bystrą osobą?
+ Inteligentne działanie to zwieńczenie procesów poznawczych typowych dla ludzkiego umysłu. Jak by nie patrzeć, dobrze by było, gdyby wszystkie wysiłki polegające na gromadzeniu, zapamiętywaniu i przetwarzaniu informacji dawały wymierne korzyści, prawda? Dlatego właśnie inteligencję możemy traktować
+ 
+  jako ogólny wynik ludzkiego poznania, który warunkuje zdolność do osiągania celów, adaptowania się do nowych warunków i funkcjonowania w otoczeniu. Innymi słowy, to umiejętność inteligentnego zachowania.
+ Psychologowie od dawna próbują ustalić, czym tak naprawdę jest inteligencja. Istnieje wiele przykładów na jej brak, jak chociażby głupawe programy poświęcone domowym filmom wideo. Wystarczy wspomnieć o człowieku, który zapomina wyłączyć prąd przed wymianą instalacji, albo o kobiecie, która próbowała nakarmić białego niedźwiedzia i o mało sama nie skończyła jako jego danie główne. Być może oglądanie zarejestrowanych nieszczęść innych sprawia nam przyjemność, ponieważ myślimy, że na pewno nie zachowalibyśmy się aż tak głupio jak nieszczęśni bohaterowie tych przykładów. Mniej kontrowersyjnym wytłumaczeniem naszego upodobania do śledzenia ludzkich tragedii jest czerpanie zadowolenia z faktu, że to nie nam przypadł w udziale taki los.
+ Każdy z nas ma własne sposoby rozwiązywania problemów, uczenia się, logicznego myślenia, wykorzystywania języka, rozumienia i nabywania koncepcji, myślenia abstrakcyjnego, integrowania pomysłów i osiągania celów. Ta imponująca lista umiejętności reprezentuje inteligencję. A ściślej rzecz biorąc, te cechy to właśnie jest inteligencja. Spróbuję ująć ją bardziej szczegółowo. Otóż można powiedzieć, że inteligencję da się zdefiniować jako zbiór zdolności poznawczych, które pozwalają danej osobie uczyć się na własnych doświadczeniach, skutecznie adaptować się do otoczenia i wykraczać poza informacje dostępne bezpośrednio.
+ Kilka słów o czynnikach inteligencji
+ Jak napisałem wcześniej, inteligencja to zbiór zdolności poznawczych. Powinna jednak istnieć pewna struktura łącząca te
+  
+  wszystkie umiejętności, która byłaby możliwa do zmierzenia. Cóż, psychologowie nie ustają w próbach tworzenia takich konstruktów i metod ich pomiaru. W tym celu opracowują różnego rodzaju testy inteligencji wykorzystywane w szkołach, na uczelniach, w wojsku oraz na rynku pracy, głównie podczas rekrutacji i awansowania personelu. Wyniki tych badań pozwoliły stworzyć koncepcję „czynnika g” (czynnika generalnego), który jest głównym komponentem mierzalnej inteligencji.
+ Składa się on z wielu składników — czynników s. Oba te elementy stanowią zaś podstawę dwuczynnikowej teorii inteligencji:
+ • Czynnik g (ogólny). Niektórzy psychologowie testują wiele osób jednym narzędziem. Następnie wynik jest obliczany i uśredniany dla każdej umiejętności, co pozwala na ustalenie poziomu inteligencji ogólnej. Ta z kolei to właśnie czynnik g, który składa się na inteligencję zgodnie z teorią dwuczynnikową. Omawiana cecha opisuje ogólną inteligencję, definiowaną jako średni wynik rozwiązywania testów inteligencji.
+ • Czynnik s (specyficzny). Jest on reprezentowany przez wyniki poszczególnych podtestów. A zatem to poziom zdolności danej osoby w jednej konkretnej dziedzinie. Po złożeniu wszystkich czynników s otrzymujemy czynnik g. Powszechnie mierzone czynniki s to na przykład: pamięć, skupienie uwagi, koncentracja, rozumienie werbalne, zasób słów, orientacja przestrzenna oraz rozumowanie abstrakcyjne.
+ Tak więc inteligencja w teorii psychometrycznej jest wynikiem testu inteligencji. Jak to możliwe? Każdy z takich testów składa się z zestawu małych testów (podtestów). Osoby dobrze radzące sobie z jednym z tych podtestów na ogół nie mają problemów z pozostałymi. Innymi słowy, istnieje zależność pomiędzy podtestami mierzącymi poszczególne umiejętności a ogólną koncepcją inteligencji, na której oparto konstrukcję tychże testów.
+ Louis Thurston (1887 – 1955), psycholog i znany
+ 
+   badacz inteligencji, zaproponował teorię podstawowych zdolności umysłowych, stanowiących w gruncie rzeczy rozszerzony odpowiednik czynnika s. Według tego naukowca inteligencja przejawia się w wynikach testów mierzących siedem zdolności: rozumienie werbalne, płynność wysławiania się, liczenie, pamięć, orientację przestrzenną, prędkość postrzegania i rozumowanie. Niestety, koncepcja Thurstona nie została w żaden sposób potwierdzona naukowo.
+ Przyjrzyjmy się bliżej
+ Psychologowie kontynuują dzielenie inteligencji ogólnej na czynniki specyficzne. Teoria Zdolności Poznawczych Cattela-Horna-Carrolla (teoria CHC) sugeruje, że czynnik g to suma składających się na niego zdolności poznawczych. Twórcy tej koncepcji, Raymond Cattell, John Horn i John Carroll, wspólnie wypracowali model inteligencji ogólnej. Ma ona dziesięć warstw, na które składają się poszczególne umiejętności:
+ • inteligencja skrystalizowana — ogół zgromadzonej wiedzy; • inteligencja płynna — zdolność rozumowania i
+ rozwiązywania problemów;
+ • rozumowanie ilościowe — umiejętności związane z liczeniem;
+ • zdolność czytania i pisania — czytanie i pisanie;
+ • pamięć krótkotrwała — pamięć ostatnich zdarzeń;
+ • pamięć długoterminowa i przypominanie — pamięć długoterminowa;
+ • przetwarzanie wzrokowe — analiza i wykorzystywanie danych wzrokowych;
+ 
+  • przetwarzanie słuchowe — analiza i wykorzystywanie danych słuchowych;
+ • szybkość przetwarzania — szybkie i automatyczne myślenie;
+ • szybkość decyzji i reakcji — szybkie podejmowanie decyzji.
+ Badacze kontynuujący prace nad modelem CHC opracowali programy badawcze służące do analizy opisanych wyżej 10 warstw. Wielu specjalistów wierzy w to, że umiejętności sensoryczne i motoryczne powinny być szerzej reprezentowane w tej teorii, co w szczególności odnosi się do takich „niepewnych” elementów, jak zdolności dotykowe, kinestetyczne (ruch), węchowe oraz psychomotoryczne (koordynacja i szybkość ruchów). Zaraz, zaraz, czy właśnie napisałem, że można być bystrym węszycielem?
+ Wielu badaczy uznało teorię CHC za triumf wiedzy psychologicznej i modelowe podejście do koncepcji psychometrycznych dotyczących inteligencji. Jest to jednak wciąż model roboczy, który, zdaniem licznej grupy naukowców, stanowi solidne podstawy do dalszych analiz, ale z pewnością nie dostarcza odpowiedzi na wszystkie pytania.
+ Odrobina sprytu
+ Robert Sternberg opracował swoją trójdzielną teorię inteligencji m.in. po to, by wyjaśnić kontrowersje związane ze sprytem, polegające na tym, że zdarzają się ludzie bardzo uzdolnieni w konkretnych dziedzinach, a jednocześnie często postępujący wbrew doświadczeniu i zdrowemu rozsądkowi. Mówi się, że Albert Einstein był niezwykle utalentowany matematycznie i fizycznie, ale miał problemy z wykonywaniem najprostszych czynności. Nie wiem, czy to prawda, ale Sternberg zdaje się zgadzać co do tego, że ważnym elementem inteligencji jest posiadanie stosownej ilości zdrowego
+ 
+  rozsądku oraz inteligencji praktycznej. Trzy podstawowe składowe tej teorii to:
+ • Inteligencja składnikowa. Czynnik ten to w zasadzie te same cechy, które są mierzone w standardowych testach inteligencji (pamięć, zasób słów itd.), czyli coś w rodzaju inteligencji książkowej. Sternberg podkreślał, że takie umiejętności są zupełnie niezwiązane z życiem codziennym oraz jego problemami. Einstein podobno celował właśnie w tym rodzaju inteligencji.
+ • Inteligencja doświadczeniowa. Wiąże się ona ze zdolnością rozwiązywania dwóch rodzajów problemów: nowych i rutynowych. Inteligencja doświadczeniowa wymaga umiejętności rozpoznawania nowych kłopotów, poszukiwania i tworzenia metod radzenia sobie z nimi oraz wprowadzania tych sposobów w życie.
+ • Inteligencja kontekstualna. Ostatnim komponentem teorii Sternberga jest pewien rodzaj inteligencji praktycznej. Pozwala on ludziom nie wchodzić pod koła samochodów, nie mówić policjantom, żeby się odczepili, czy nie doprowadzać do tego, by śmieci piętrzyły pod sam sufit. Ten rodzaj inteligencji jest najbliższy sprytowi, którego według pacjentów często brakuje psychologom.
+ Inteligencje wielorakie
+ Czy kiedyś zdarzyło Ci się zastanawiać, czemu Michael Jordan był tak dobrym koszykarzem? A co z Mozartem, który komponował opery za jednym posiedzeniem i bez poprawiania? To dopiero imponujące! Zgodnie z teorią Howarda Gardnera (1983) każdy z tych ludzi posiadał specyficzny rodzaj inteligencji.
+ Obserwacja wybitnie uzdolnionych osób pozwoliła Gardnerowi stworzyć pogląd znany jako teoria inteligencji wielorakich. Opisał siedem rodzajów
+ 
+   inteligencji, które na ogół nie mieszczą się w potocznych definicjach tej cechy. Oto one:
+ • Zdolność kinestetyczna. Michael Jordan miał ją bardzo dobrze rozwiniętą. Ludzie o wysokiej zdolności motorycznej cechują się dobrą koordynacją oko - ręka, wybitnym poczuciem równowagi, a także bardzo dobrze znają swoje ciało i kontrolują je podczas działań fizycznych.
+ • Zdolność muzyczna. Jeżeli potrafisz wybijać rytm jednocześnie stopami i dłońmi, posiadasz nieco muzycznej inteligencji. Ludzie o wysokim poziomie tej zdolności są w stanie w naturalny sposób czytać nuty, komponować i grać bardzo dobrą muzykę.
+ • Zdolność orientacji przestrzennej. Czy kiedykolwiek zgubiłeś się we własnym ogrodzie? Jeżeli tak, może to oznaczać deficyt inteligencji przestrzennej, na którą składa się umiejętność poruszania się i znajdowania drogi oraz tworzenia dokładnych trójwymiarowych wyobrażeń wizualnych.
+ • Zdolność językowa. Jest to klasyczna umiejętność wyjątkowo dobrego pisania, czytania i mówienia. Poeci, pisarze i utalentowani mówcy mają ją wysoko rozwiniętą.
+ • Zdolność matematyczno-logiczna. Ten typ inteligencji odnosi się do umiejętności rozwiązywania prostych i złożonych zadań matematycznych.
+ • Zdolność interpersonalna. Opinia „urodzonego mówcy” oraz umiejętności skutecznych sprzedawców to dwa przykłady tego typu zdolności. Osoba obdarzona inteligencją interpersonalną doskonale odnajduje się w konwersacji i wie, w jaki sposób porozumiewać się, prowadzić rozmowę i nawiązywać kontakty z innymi ludźmi.
+ 
+  • Zdolność intrapersonalna. Jak dobrze znasz siebie? Inteligencja intrapersonalna to umiejętność rozumienia własnych motywów, emocji oraz innych aspektów swojej osobowości.
+ Każdy z nas posiada zdolności wymienione przez Gardnera, tyle że na różnym poziomie. Można być doskonałym koszykarzem, śpiewakiem i matematykiem, a przy tym człowiekiem, który zgubi się na prostej drodze, nie umie nawiązać rozmowy czy potrzebuje sporo czasu, by rozpoznać u siebie najprostsze uczucia.
+ Ocena zgodnie z rozkładem naturalnym
+ Psychologowie lubią dokonywać pomiarów, zwłaszcza jeżeli wiąże się to z badaniem ludzkiego zachowania i procesów myślowych takich jak zdolności poznawcze. Mierzenie i dokumentowanie poszczególnych różnic leży u podstaw psychologii stosowanej (więcej informacji na jej temat możesz znaleźć w artykule Applying Psychology For a Better World na stronie www.dummies.com/extras/psychology).
+ Niezależnie od tego, czy preferujesz teorię CHC, model Sternberga, czy też ideę inteligencji wielorakich, nie zapominaj o koncepcji średniej. Inteligencja w populacji generalnej podlega bowiem zjawisku noszącemu nazwę rozkładu normalnego, który jest ideą statystyczną definiującą zakres dowolnej cechy (na przykład zjawiska psychologicznego) w danej społeczności.
+   Poszczególni
+ normalny (rysunek 6.1) zakłada, że gdyby wszyscy ludzie przeszli test inteligencji, większość uzyskałaby wyniki średnie, z pewnym odchyleniem w górę lub w dół. To tzw. krzywa dzwonowa, mająca formę krzywej wybrzuszonej w środku i opadającej na brzegach. Oznacza to, że większość ludzi jest przeciętnie inteligentna, zaś
+ ludzie różnią się poziomem inteligencji. Rozkład
+ 
+  osoby o inteligencji znacznie wyższej i znacznie niższej niż przeciętna zdarzają się dużo rzadziej.
+ Rysunek 6.1. Rozkład normalny
+ Na jednym końcu spektrum znajdują się ludzie traktowani jako utalentowani intelektualnie, zaś na drugim — osoby upośledzone umysłowo (więcej informacji na temat upośledzeń znajdziesz w rozdziale 13.).
+ Błyskotliwy umysł
+ Einstein był geniuszem, prawda? Co jednak pozwala określić jakąś osobę takim mianem?
+ Psychologowie zwykle nazywają wyjątkowo inteligentnych ludzi jednostkami utalentowanymi. Unikają używania słowa „geniusz”. Nie istnieje jednak żadna ustalona wartość, po przekroczeniu której można mówić o wyjątkowych zdolnościach. Średni wynik standardowego ilorazu inteligencji wynosi 100, zaś rezultaty powyżej 120 oznaczają inteligencję wyraźnie wyższą niż przeciętna. Za szczególnie utalentowane uważa się 1 – 3% populacji, zatem wśród
+  
+  losowo wybranych 100 ludzi można znaleźć jedynie jedną, dwie lub maksymalnie trzy uzdolnione osoby.
+ Wielu psychologów stara się unikać definiowania talentu intelektualnego wyłącznie na podstawie danych psychometrycznych. Twierdzą oni, że zawsze należy brać pod uwagę normy społeczne i kulturowe. Czy to oznacza, że osoba uznawana w jednej kulturze za geniusza w innej może uchodzić za szaleńca? Cóż, różnice na ogół nie są aż tak drastyczne, ale warto pamiętać, że wyjątkowy intelekt jest bardzo złożonym konstruktem, który trudno oddać jedną liczbą.
+ Wielu psychologów próbowało zdefiniować talent intelektualny. Robert Sternberg, znany amerykański badacz, zasugerował, że taki talent przejawia się w czymś więcej niż tylko w wyższych zdolnościach przetwarzania i analizowania informacji, gdyż obejmuje także ponadprzeciętne zdolności czerpania nauki z własnych doświadczeń i wykorzystywania jej do radzenia sobie z kłopotami w przyszłości oraz automatycznego rozwiązywania problemów. Według tego psychologa ludzie o wyjątkowej inteligencji potrafią także adaptować się do otoczenia i wybierać optymalne dla siebie środowiska w sposób wykraczający poza standardowe przetwarzanie informacji.
+ Badacze od dawna próbują ustalić, czym jest talent intelektualny. Chociaż wyniki ich pracy różnią się, większość psychologów zgodnie twierdzi, że wszyscy ludzie o bardzo wysokiej inteligencji wykazują rozwinięte zdolności metapoznawcze, definiowane jako wiedza o własnych procesach myślowych i umiejętność ich regulowania. Do powszechnych strategii metapoznawczych należą:
+ • kodowanie wybiórcze — dzielenie informacji na istotne i nieistotne;
+ • kombinacja wybiórcza — łączenie pozornie niezwiązanych ze sobą elementów w celu znalezienia nowego rozwiązania;
+  
+  • porównywanie wybiórcze — odkrywanie nowych i nieoczywistych powiązań pomiędzy nowymi oraz starymi informacjami.
+ O co chodzi w języku?
+ Ludzka inteligencja z pewnością jest ukoronowaniem procesów poznawczych, ponieważ pozwala wykorzystywać poszczególne z nich w celu zdobywania i zapamiętywania informacji. Mimo to ograniczenie tej cechy do samego poznania poważnie zawęża jej spektrum. Równie skomplikowane procesy towarzyszą bowiem zjawisku znanemu jako język.
+ Ludzki umysł jest w stanie tworzyć, wykorzystywać i rozumieć język. To jedna z naszych najbardziej złożonych i unikalnych zdolności. Owszem, inne zwierzęta również potrafią się komunikować i posługują się czymś w rodzaju języka (zwłaszcza walenie i ptaki). Czy jednak delfin opowiedział kiedyś jakąś historię, a Sus scrofa domestica (świnia domowa) napisała Romea i Julię?
+ Język traktowany jako proces poznawczy był przedmiotem wielu badań naukowych. Wciąż zresztą pozostaje w sferze zainteresowań psychologów poznawczych. Nauka zajmująca się językiem jako takim to lingwistyka, zaś psychologiczne badanie języka nazywamy psycholingwistyką.
+ Wieża Babel
+ Być może jedną z najbardziej niezwykłych rzeczy związanych z językiem jest to, że wszyscy mogliśmy się go nauczyć. Noworodki nie potrafią mówić i nabywają tę zdolność z czasem, przyswajając dźwięki i słowa. Dopiero później zaczynają ich używać do tworzenia zdań, wypowiedzi, opowieści, a nawet książek.
+ W rozdziale 12. omawiam główne kamienie milowe rozwoju człowieka, aby z grubsza wyjaśnić, w jakim wieku dziecko powinno
+ 
+  posiąść określone umiejętności. Znajdziesz tam opis modeli kognitywnych pozwalających na kształtowanie zdolności językowych.
+ W lingwistyce i psycholingwistyce obowiązuje wiele modeli języka, jednak najpopularniejsze są trzy podejścia: natywistyczne, behawiorystyczne i interakcjonistyczne.
+ Natywistyczne
+ Noam Chomsky, filozof, lingwista i teoretyk polityczny, znany jest jako główny zwolennik teorii natywistycznej, która zakłada, że język to zdolność wrodzona, wpisana w DNA i rozwój mózgu, a następnie samorzutnie kształtująca się w miarę wzrastania. Dzieje się to podobnie jak w przypadku wątroby, trzustki czy bliżej nieokreślonych znamion na plecach.
+ Wrodzone zasady języka są tym, co Chomsky nazywa gramatyką uniwersalną. Wiedzą o niej dysponują wszyscy ludzie posługujący się mową. Dzieci potrafią tworzyć własne języki i żargony, korzystając z gramatyki uniwersalnej i tzw. narzędzia akwizycji języka, czyli wrodzonego modułu poznawczego, który jest uaktywniany przez język napotkany w otoczeniu. Należy przy tym zauważyć, że zdaniem Chomsky’ego bodziec z zewnątrz służy jedynie do uaktywnienia tego modułu, a więc nie można tu mówić o przyswajaniu informacji pochodzących ze środowiska.
+ Behawiorystyczna
+ Model behawiorystyczny zakłada, że język jest w pełni wyuczany. Człowiek może go przyswoić poprzez obserwowanie innych komunikujących się ludzi na drodze warunkowania klasycznego bądź instrumentalnego (więcej informacji na temat warunkowania znajdziesz w rozdziale 8.). Jednym z czynników mogących potwierdzać słuszność tej koncepcji jest fakt, że sprawne przyswojenie języka wymaga wielu miesięcy, a nawet lat ćwiczeń. Według behawiorystów poznawanie mowy to zwykły proces nauki.
+ 
+  Interakcjonistyczne
+ Natura czy kultura? Jedno i drugie! Język jest systemem wrodzonym i wyuczonym jednocześnie, przynajmniej zgodnie z tym modelem. Jedno z bardziej znanych podejść interakcjonistycznych to koncepcja interakcjonizmu społecznego. Zakłada ona, że rodzice i inni komunikujący się dorośli pomagają dzieciom stworzyć swego rodzaju „szkielet” języka, który stanowi podstawę dla nauki poprzez dalszą interakcję społeczną.
+ Dźwięki, słowa i sylaby
+ Aby zrozumieć, w jaki sposób umysł korzysta z języka, badacze podzielili ten system na mniejsze jednostki. Całkiem słusznie założyli bowiem, że da się go poznać poprzez gramatykę, czyli reguły jego stosowania. Samą gramatykę można zaś podzielić na trzy działy:
+ • fonologię, zajmującą się fonemami, a więc najmniejszymi jednostkami mowy określającymi to, w jaki sposób poszczególne dźwięki są wykorzystywane do tworzenia wyrazów;
+ • składnię, determinującą sposób łączenia słów w całe zdania;
+ • semantykę, zajmującą się znaczeniem.
+ Szacuje się, że we wszystkich ludzkich mowach można wyróżnić około 800 fonemów. Język polski wykorzystuje 39 fonemów, angielski — 52. Istnieją też takie, które używają ponad 100. Zastanów się, jak brzmią inne języki. Niektóre wydają się szybkie. Inne zawierają wiele gardłowych dźwięków. Jeszcze inne brzmią lekko i śpiewnie. Różne języki korzystają bowiem z rozmaitych dźwięków i fonemów.
+ Popatrz teraz na następujące zdanie: „poszedł sklep Jan do”. Czy wygląda ono sensownie? Raczej nie, ponieważ nie spełnia wymogów składni określającej sposób, w jaki wyrazy są łączone w zdania. Co więcej, nawet subtelne zmiany kolejności słów mogą
+ 
+  poważne wpłynąć na znaczenie całej wypowiedzi. Popatrz na dwa poniższe zdania. Składają się one z identycznych wyrazów („gang”, „okradł” i „bank”), ale odwrócenie ich kolejności spowodowała diametralną zmianę znaczenia:
+ Gang okradł bank.
+ Bank okradł gang.
+ Te same trzy wyrazy, ale dwa zupełnie odmienne znaczenia, wynikłe ze zmiany składni.
+ Podczas prowadzenia testów słownikowych zauważyłem, że niektóre wyrazy są rozumiane w niewłaściwy sposób, a błędne definicje często bywają bardzo podobne lub wręcz identyczne. Przykładowo kiedy pytałem ludzi, czym jest „wczoraj”, odpowiadali, że oznacza to „wszystko, co robiłem wczoraj”. Nie wiem dlaczego, ale definicja taka, choć błędna, jest bardzo rozpowszechniona. Dla wielu ludzi słowo „wczoraj” oznacza bowiem nie konkretny dzień, lecz zbiór wykonywanych wówczas czynności. Krótko mówiąc, rozumieją oni ten wyraz zupełnie inaczej niż ja.
+ Kiedy słowa mają dla mnie odmienną definicję niż dla innych, komunikacja staje się słabsza lub w ogóle niemożliwa. Brak spójności oznacza bowiem, że jedna ze stron nie postępuje zgodnie z ogólnie przyjętymi zasadami semantyki, które definiują sens słów (w tym przypadku „wczoraj”), a co za tym idzie, pozwalają na wzajemne zrozumienie. Kiedy mówisz: „słoń”, wiem, że masz na myśli duże zwierzę z długą trąbą. Tak samo działają języki znaków (w tym na przykład migowy), które mają własną gramatykę i są rozwijane dokładnie tak samo jak języki mówione, rzecz jasna, pod warunkiem że otoczenie niesłyszącego dziecka jest bogate w odpowiednie znaki.
+ 

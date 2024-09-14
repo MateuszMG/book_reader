@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import { Select, Button, Typography, Layout, Slider, Input, List } from "antd";
 import {
   PlayCircleOutlined,
@@ -10,6 +10,7 @@ import {
 import Link from "next/link";
 import { HistoryEntry } from "./ClearHistory/page";
 import { handleApiError } from "@/components/ErrorToast";
+import NestedSelect from "@/components/NestedSelect";
 
 const { Content } = Layout;
 const { Paragraph } = Typography;
@@ -25,8 +26,6 @@ const Home = () => {
   const [isSpeaking, setIsSpeaking] = useState<boolean>(false);
   const [isPaused, setIsPaused] = useState<boolean>(false);
   const [startWord, setStartWord] = useState<string>("");
-  // const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
-
   const [history, setHistory] = useState<HistoryEntry[]>([]);
 
   const handleLoadVoices = () => {
@@ -94,16 +93,17 @@ const Home = () => {
     }
   }, []);
 
-  const loadBook = async (book: string) => {
-    const response = await fetch(`/books/${book}.json`);
-    const data = await response.json();
-    setBookText(data.text);
+  const loadBook = async (path: string) => {
+    const response = await fetch(`/books/${path}.txt`);
+    const data = await response.text();
+    setBookText(data);
   };
 
-  const handleBookChange = (value: string) => {
-    setSelectedBook(value);
-    localStorage.setItem("selectedBook", value); // Save the selected book in localStorage
-    loadBook(value);
+  const handleBookChange = (values: string[]) => {
+    const path = values.join("/");
+    setSelectedBook(path);
+    localStorage.setItem("selectedBook", path); // Save the selected book in localStorage
+    loadBook(path);
   };
 
   const saveProgress = () => {
@@ -222,12 +222,6 @@ const Home = () => {
   return (
     <Layout style={{ padding: "24px", minHeight: "100vh" }}>
       <Content>
-        {/* {!window?.speechSynthesis && (
-          <div>
-            <h1>window?.speechSynthesis not supported in this browser</h1>
-          </div>
-        )} */}
-
         <Link href="/reader">
           <Button type="link" style={{ marginBottom: "24px" }}>
             Reader
@@ -257,21 +251,7 @@ const Home = () => {
         <Button onClick={setLastContinuation}>Continue</Button>
         <br />
         <br />
-        <Select
-          placeholder="Select a book"
-          style={{ width: 200, marginBottom: "24px" }}
-          onChange={handleBookChange}
-          value={selectedBook}
-        >
-          <Option value="en">en</Option>
-          <Option value="smallTextPL">smallTextPL</Option>
-          <Option value="smallTextEN">smallTextEN</Option>
-          <Option value="DEIR3_1">DEIR3_1</Option>
-          <Option value="DEIR3_2">DEIR3_2</Option>
-          <Option value="DEIR3_3">DEIR3_3</Option>
-          <Option value="DEIR3_4">DEIR3_4</Option>
-          <Option value="DEIR3_5">DEIR3_5</Option>
-        </Select>
+        <NestedSelect onChange={handleBookChange} />
 
         {bookText && (
           <>

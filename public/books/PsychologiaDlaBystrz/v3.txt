@@ -1,0 +1,211 @@
+
+  Rozdział 3.
+ Hardware, software i wetware
+ W tym rozdziale:
+ • Zbiologizujemy psychologię.
+ • Rozłożymy mózg na części pierwsze.
+ • Zagramy na nerwach.
+ • Odkryjemy DNA.
+ • Sprawdzimy, jak leki zmieniają nasze zachowanie.
+ Psychologia może być czasami dość abstrakcyjna i nierzadko wydaje się bliższa filozofii niż biologii. W tej książce przedstawię różne „psychologiczne” koncepcje dotyczące myśli, uczuć, poglądów czy typów osobowości. Czy jednak zdarzyło Ci się kiedyś zastanawiać, gdzie te wszystkie rzeczy istnieją? Gdzie bowiem konkretnie można znaleźć myśl albo uczucie?
+ Rozsądnym wydaje się założenie, że przedmioty zainteresowań wszystkich koncepcji psychologicznych mieszczą się w umyśle. Czym on zatem jest? Odpowiedź wydaje się prosta — umysł to mózg. A więc czy ktoś, kto wziąłby latarkę i poświecił nią komuś w ucho, mógłby zobaczyć wszystkie uczucia, myśli i inne psychologiczne rzeczy kłębiące się pod czaszką? Cóż, każdy, kto próbował tak zrobić, wie, że to dość kiepski pomysł na badanie. Spróbujmy zatem inaczej. Czy po otwarciu czaszki i odsłonięciu mózgu można by wreszcie ujrzeć psychologiczne idee? Niespecjalnie, gdyż w takiej sytuacji naszym oczom ukazałaby się co najwyżej pofałdowana masa szaroróżowobiaławej tkanki, w której
+   
+  nie widać myśli, uczuć ani poglądów. Gdzie w takim razie się one znajdują? W końcu każdy z nas doświadcza ich każdego dnia.
+ Pytanie o to, gdzie mieści się umysł, czyli siedlisko przedmiotu dociekań wszystkich koncepcji psychologicznych, jest jednym z najstarszych, jakie zadawali sobie filozofowie. Czy umysł znajduje się w mózgu? Czy jest czymś innym niż mózg? Czy może mózg i umysł to jedno i to samo? Większość współczesnych naukowców właśnie tak uważa. Podejście to nazywane jest monizmem i zakłada, że aby poznać umysł człowieka i wszystkie kwestie psychologiczne, należy najpierw zgłębić tajniki ciała, przede wszystkim zaś układu nerwowego.
+ Neil Carlson, psycholog, twierdzi, że „to, co nazywamy umysłem, jest wynikiem działania ludzkiego ciała oraz jego interakcji z otoczeniem”. To bardzo odważna idea, gdyż zakłada, że tajemnice zjawisk psychicznych, takich jak myśli czy uczucia, można rozwikłać jedynie na drodze dogłębnego zrozumienia kwestii biologicznych.
+ Pogląd, zgodnie z którym psychologię da się sprowadzić do czystej biologii, nazywamy redukcjonizmem biologicznym. Wielu moich studentów często protestowało przeciwko takiemu podejściu, gdyż wydawało się godzić w ich uczucie wolnej woli i samoświadomości. W jaki sposób całe bogactwo procesów psychicznych może zostać sprowadzone do działania organu mieszczącego się pod czaszką? Jeżeli podzielasz ten pogląd, być może nie należysz do zwolenników biologizmu, ale na potrzeby tego rozdziału będę jednak przyjmował redukcjonistyczny punkt widzenia. Potraktuję zatem biologię jako klucz do zrozumienia ludzkiej psychologii.
+ W niniejszym rozdziale przedstawię podstawowe elementy psychologii biologicznej, m.in. organizm, mózg i neuroprzekaźniki. Powiem też co nieco o roli, jaką w funkcjonowaniu tych systemów
+  
+  odgrywa genetyka. Na koniec opiszę niektóre lekarstwa oraz inne nowoczesne metody leczenia zaburzeń psychicznych.
+ Wiara w biologię
+ To, że ludzkie postępowanie i procesy psychiczne są wynikiem procesów biologicznych, nie zawsze było oczywiste. W czasach starożytnych Greków i Rzymian zachowanie postrzegano jako efekt działania sił nadnaturalnych, a ściślej mówiąc, pragnień i kaprysów bogów. Jednak w którymś momencie pojawiły się przypuszczenia, iż ludzkie ciało nie jest obojętne dla zachowania. Skąd wziął się jednak sam pomysł, że przyczyny naszych działań i myśli mogą tkwić w biologii?
+ Historia tego zagadnienia jest długa, a ja nie mam zamiaru zanudzać Cię wszystkimi jej szczegółami. U podstaw badań związanych z tym zjawiskiem leży jednak prosta obserwacja — zmiany w naszym układzie biologicznym wpływają na zachowania i procesy psychiczne.
+ Za przykład niech posłuży nam spożywanie alkoholu. Oczywiste jest to, że pod wpływem tej substancji ludzie zachowują się inaczej niż zwykle. Mogą flirtować, szaleńczo tańczyć, niekiedy ogarnia ich sentymentalny nastrój albo wpadają w gniew. Właściwości chemiczne alkoholu sprawiają, że zmienia on funkcjonowanie mózgu, czyli biologię tego organu u osoby pijącej. Wygląda to mniej więcej następująco:
+ Spożycie alkoholu → Chemiczne oddziaływanie na mózg → Myśl, że jest się Don Juanem.
+ A co z poważniejszymi zmianami biologicznymi, takimi jak uszkodzenia mózgu? U ludzi cierpiących na tego typu zaburzenia
+  
+  niekiedy obserwuje się drastyczne zmiany osobowości i sposobu myślenia. Jednostki bardzo zorganizowane mogą stać się bałaganiarzami, zaś te, które dotychczas były znane ze spokojnego i łagodnego charakteru, zaczną wpadać w furię z najbłahszych powodów. Niewykluczone również, że zapamiętywanie i myślenie logiczne będą sprawiać im trudność.
+ Myślę, że większość z nas intuicyjnie pojmuje, iż to, co zachodzi w ciele, ma wpływ na nasze zachowanie i myślenie. Psychobiologowie to grupa psychologów, którzy rozszerzyli ten intuicyjny pogląd i wykorzystali obserwacje oraz inne współczesne techniki naukowe do zbadania tego, w jaki sposób zmiany biologiczne przekładają się na zmiany natury psychologicznej.
+ Choć spora część tego, co napisałem powyżej, wydaje się logiczna, wciąż możesz się zastanawiać, czy aby wszystko sprowadza się do biologii. Odzywa się u Ciebie myślenie dualistyczne. Osobiście proponuję nie zastanawiać się nad tym zbytnio, przynajmniej nie podczas lektury tego rozdziału. Jeżeli bowiem człowiek nawet wierzy w to, że jesteśmy czymś więcej niż układami komórek i molekuł, to wciąż może wiele wynieść z lektury badań psychobiologicznych.
+ Czy pamiętasz model biopsychospołeczny opisywany w rozdziale 1.? Jeżeli nie, zapoznaj się z nim. Możesz mi wierzyć — to bardzo ciekawy rozdział. Model biopsychospołeczny pozwala myśleć o ludzkiej psychologii jako o funkcji trzech wspomnianych poziomów zrozumienia:
+ • biologicznego,
+ • psychologicznego, • społecznego.
+ Niniejszy rozdział skupia się na pierwszym poziomie. W dalszej części książki można znaleźć opis pozostałych dwóch. Aby docenić wkład każdego z tych poziomów w nasze rozumienie zachowania oraz metody myślenia, musimy wywołać sytuacje, w których
+  
+  dochodzi do interakcji pomiędzy nimi. Innymi słowy, powinniśmy zrozumieć sposób, w jaki biologia wpływa na psychologię, psychologia na biologię itd.
+ Przydatną metaforą opisywanych trzech poziomów jest działanie współczesnego komputera. Większość z nas wie, że tego typu maszyny składają się z dwóch zasadniczych komponentów — sprzętu (hardware) i oprogramowania (software). Sprzęt to fizyczne części komputera: procesor, dysk twardy, przewody, stacja CD-ROM i inne. Na oprogramowanie składają się zaś: system operacyjny, edytor tekstu i inne programy wykorzystywane w pracy z maszyną.
+ W naszej metaforze odpowiednikiem sprzętu jest biologiczny poziom rozumienia, czyli ciało, szczególnie zaś układ nerwowy. Oprogramowanie reprezentuje poziom psychologiczny, zaś interfejs łączący użytkownika z komputerem to poziom społeczny. Sprzęt jest bezużyteczny bez oprogramowania — i na odwrót. Tak więc nawet jeżeli nie podziela się poglądu monistycznego, wciąż można uznawać istotną rolę fizjologii (sprzętu) dla działania psychiki (oprogramowania).
+ Znajdujące się w tytule rozdziału słowo „wetware” odzwierciedla fizyczną część mózgu, czyli tkankę nerwową. Ten organ składa się bowiem nie z „twardych” części (przewodów, silikonu i tym podobnych materiałów), lecz z elementów „mokrych”, czyli neuronów, tkanek i chemikaliów. Aby pozostać wiernym mojej metaforze, w tym rozdziale skupię się na poziomie wetware, a więc układzie nerwowym, systemie wydzielania dokrewnego, genetyce i farmakologii.
+ Jak w zegarku — działanie ciała
+ Ludzki układ nerwowy składa się z dwóch dużych części: centralnego układu nerwowego (CUN) i obwodowego układu nerwowego (OUN). Ich podstawowymi elementami są nerwy, neurony, neuroprzekaźniki oraz komórki glejowe. CUN to mózg i
+ 
+  rdzeń kręgowy, zaś OUN — system nerwów nienależących do CUN, rozłożony w całym ciele.
+ Podstawowymi elementami budującymi układ nerwowy są nerwy, neurony, neuroprzekaźniki oraz komórki glejowe. Nerwy to de facto wiązki neuronów, podobnie jak pudełko spaghetti składa się z poszczególnych nitek makaronu. Neurony to z kolei pojedyncze komórki nerwowe, które zwykle przyjmują sygnały z innych neuronów, oceniają je, a następnie przekazują do kolejnych części układu nerwowego.
+ Przesyłanie sygnałów przez neuron jest możliwe dzięki ładunkom elektrycznym. Jako że ładunki te korzystają z ruchu jonów chemicznych, system przenoszenia sygnałów nosi nazwę układu elektrochemicznego. Neuroprzekaźniki to substancje chemiczne odgrywające kluczową rolę w przesyłaniu sygnałów pomiędzy neuronami. Z kolei komórki glejowe wspomagają neurony na różne sposoby: chronią je przed uszkodzeniem, naprawiają w razie potrzeby i usuwają komórki, których nie można już zreperować, a więc „wynoszą śmieci”.
+ Układ nerwowy jest żywą częścią organizmu, dlatego ma takie same potrzeby jak pozostałe części ciała (na przykład zasilanie i ochrona). Składowe tego systemu są utrzymywane przez układ krwionośny i inne narządy regulujące funkcjonowanie organizmu. Szczegółowy opis współdziałania z innymi układami znajduje się przy umieszczonych w dalszej części rozdziału opisach każdej z części systemu nerwowego.
+ Jeżeli pamiętasz co nieco z lekcji chemii, fizyki lub biologii, być może wiesz, że elementy, z których składają się organizmy żywe, zaczynają się na poziomie atomów (działających zgodnie z prawami fizyki). One zaś budują molekuły, tworzące z kolei związki, komórki, tkanki i całego człowieka. Gdybyśmy byli więc skrajnymi redukcjonistami, skupilibyśmy się wyłącznie na fizyce, ignorując
+  
+  wszystkie pozostałe nauki. Można też przyjrzeć się ludzkim zachowaniom i procesom umysłowym na poziomie molekularnym. Takie podejście jest typowe dla neurobiologii.
+ Na ogół psychobiologia interesuje się jednak organizmem od poziomu komórkowego w górę. W układzie nerwowym występują dwa rodzaje komórek: neurony i komórki pomocnicze. W tej części rozdziału przedstawię ogólną budowę i organizację działania mózgu, a także opiszę poszczególne jego części.
+ Droga na peryferie
+ Obwodowy układ nerwowy (OUN) można sobie wyobrazić jako zbiór połączeń, za pomocą których mózg i rdzeń kręgowy komunikują się z resztą ciała. Na ten system składają się dwa rodzaje nerwów:
+ • Nerwy rdzeniowe. Wędrują one od rdzenia kręgowego do mięśni i innych części ciała, przekazując impulsy nerwowe z i do rdzenia. Przykładowo zaliczają się do nich nerwy przekazujące dane z ośrodków czucia w skórze, gdy ktoś nadepnie Ci na stopę. Nerwy motoryczne (ruchowe) przekazują sygnały z CUN do innych partii ciała, wywołując ruch mięśni (na przykład podniesienie ręki).
+ • Nerwy czaszkowe. Są one odpowiedzialne za działanie mięśni i narządów zmysłów znajdujących się w głowie i szyi, a więc kontrolują m.in. widzenie i słyszenie, ale także mruganie i mowę. Nerwy te są połączone bezpośrednio z mózgiem, a nie z rdzeniem kręgowym.
+ Poza tymi dwoma rodzajami nerwów OUN zawiera także osobny system zwany autonomicznym układem nerwowym (AUN). Jego zadaniem jest nadzorowanie działania dwóch rodzajów mięśni (gładkich i sercowych) oraz funkcjonowania gruczołów. AUN odpowiada za nieświadome czy też „automatyczne” funkcje organizmu. Działanie organów, skurcze mięśni lub rozszerzanie i zwężanie się źrenic to przykłady reakcji wywoływanych przez AUN.
+ 
+  Sam układ autonomiczny dzieli się zaś na dwie bardzo ważne części:
+ • Współczulny (sympatyczny) układ nerwowy. Współczulna część AUN jest odpowiedzialna za aktywowanie ciała, kiedy potrzebuje ono dodatkowej energii. Na przykład w sytuacji zagrażającej życiu układ współczulny zostaje „włączony”, dzięki czemu zapewnia odpowiednią ilość energii potrzebną do konfrontacji lub ucieczki.
+ • Przywspółczulny (parasympatyczny) układ nerwowy. Przywspółczulna część AUN przerywa funkcjonowanie części współczulnej. Działanie to nazywa się czasami reakcją rozluźnienia, ponieważ działanie WUN zostaje osłabione lub wyłączone, a organizm wraca do normalnego stanu.
+ Droga do wnętrza
+ Na CUN składa się mózg i rdzeń kręgowy. Chociaż ten ostatni odgrywa niezwykle istotną rolę, w tym miejscu chciałbym skupić się na samym mózgu, który jest uważany za podstawowy warunek funkcjonowania psychicznego. Można zatem powiedzieć, że stanowi centrum dowodzenia zachowaniem. Mózg, składający się z miliardów komórek tworzących niezwykle złożone sieci, to jedna z najbardziej skomplikowanych struktur znanych nauce.
+ Organ ten badany jest od wielu lat. Naukowcy do dzisiaj nie ustają w próbach wyjaśnienia jego budowy i mechanizmów działania. Mózg najłatwiej obrazuje metafora miasta podzielonego na różne poziomy:
+ • Strukturalny – podstawowe anatomiczne elementy mózgu określone przez pełnione funkcje („dzielnice”).
+ • Sieciowy – połączenia między poszczególnymi częściami mózgu pozwalające na ich współdziałanie („drogi”).
+ • Nerwowy – funkcje komórkowe i mikrokomórkowe (domy i meble).
+ 
+  Krótko mówiąc, każde nasze działanie wykorzystuje mózg. Co jednak dzieje się w chwili, gdy jakaś część tego organu zostanie uszkodzona? W takiej sytuacji zachowania związane z wadliwym rejonem będą upośledzone. Wpływem uszkodzeń mózgu na funkcjonowanie i myślenie zajmują się przede wszystkim neuropsychologowie kliniczni.
+ Do zniszczeń omawianego organu może dochodzić na wiele różnych sposobów. Przyczynami są:
+ • Obrażenia wewnątrzczaszkowe. Pojawiają się w następstwie urazów głowy niepołączonych z przebiciem czaszki. Typowym uszkodzeniem tego typu jest stłuczenie mózgu, objawiające się po przeciwnej stronie organu w stosunku do miejsca uderzenia. A zatem uraz tyłu głowy może wywołać wadę płata czołowego, którego skutkiem będą zaburzenia zdolności organizacji i planowania. Chociaż obrażenia takie nie wiążą się z pęknięciem czaszki, możliwość wystąpienia opuchlizn bądź krwotoku wewnątrzmózgowego sprawia, że bywają bardzo niebezpieczne.
+ • Obrażenia otwarte mózgu. Ten rodzaj uszkodzeń występuje wtedy, gdy doszło do pęknięcia lub przebicia czaszki. Na ogół prowadzi to do bardzo poważnych obrażeń.
+ • Inne zaburzenia mózgu. Schorzenia degeneracyjne w rodzaju choroby Alzheimera mogą wywołać uszkodzenia organu na skutek atrofii tkanki nerwowej i śmierci komórek. Wylewy do mózgu i inne zaburzenia działania układu naczyniowego mogą również powodować wady poprzez odcięcie dopływu krwi i tlenu, co jest przyczyną obumierania komórek.
+ Jak w zegarku — układy wewnętrzne
+ 
+  CUN składa się z mózgu i rdzenia kręgowego. Mózg dzieli się na trzy główne części: przodomózgowie, śródmózgowie i tyłomózgowie. Każda z nich zawiera struktury odpowiedzialne za rozmaite rodzaje działań i zachowań.
+ Myśląc o mózgu, należy pamiętać, że to złożony i zintegrowany system, którego wszystkie części działają wspólnie w celu wytworzenia skomplikowanych zachowań, do jakich zdolny jest każdy z nas. Istnieje też koncepcja lokalizacji. Według niej określone partie mózgu odpowiadają za konkretne elementy zachowań. Poszczególne części pracują więc razem, aby wygenerować wrażenie widzenia, słuchu, mowy itd. Poznanie istnienia wyspecjalizowanych obszarów tego organu było możliwe dzięki różnym technikom neurologicznym, takim jak pośmiertna analiza mózgu, skany CT (tomografia osiowa), MRI (rezonans magnetyczny) i PET (tomografia pozytronowa).
+ Przodomózgowie
+ Przodomózgowie u człowieka jest odpowiedzialne za wiele procesów umysłowych, m.in. czucie, postrzeganie i przetwarzanie informacji. Bierze ono także udział w myśleniu, rozwiązywaniu problemów, organizowaniu i używaniu języka.
+ Na przodomózgowie składają się następujące części:
+ • Kora mózgowa. Jeżeli porównać mózg do grzyba, to kora mózgowa będzie jego górną częścią, czyli kapeluszem. Dzieli się ona na dwie półkule mózgowe (lewą i prawą — to akurat jest proste) połączone grupą włókien nerwowych tworzących ciało modzelowate, bez których nie mogłyby się ze sobą komunikować.
+  
+  Cztery największe obszary kory mózgowej pokazano na rysunku 3.1. Poniżej znajduje się ich opis wraz z zaznaczeniem najważniejszych pełnionych przez nie funkcji:
+ • płat czołowy — planowanie, organizowanie, koordynacja i kontrola ruchów, rozumowanie i ogólne monitorowanie procesu myślenia;
+ • płat ciemieniowy — czucie, orientacja przestrzenna i świadomość somatosensoryczna (cielesna);
+ • płat skroniowy — słyszenie, mówienie i inne działania werbalne;
+ • płat potyliczny — widzenie.
+ • Układ limbiczny. Mieści się w dolnej części szczytu kapelusza (kory mózgowej). Układ limbiczny odpowiada za uczenie się, pamięć, zachowania emocjonalne i reprodukcję.
+ • Jądra podstawne. Ta część odpowiada za kontrolę poruszania się.
+ • Wzgórze. Ta „nerwowa tablica rozdzielcza” jest miejscem kierującym impulsy do poszczególnych partii mózgu.
+ • Podwzgórze. Jest to część odpowiedzialna za funkcjonowanie układu wydzielniczego. Współpracuje z układem limbicznym w celu kontrolowania zachowań takich jak agresja czy zdobywanie pokarmu oraz niektórych funkcji organizmu (na przykład ochrony i reprodukcji).
+ 
+   Rysunek 3.1. Płaty kory mózgowej Śródmózgowie
+ Śródmózgowie bierze udział w procesie przetwarzania bodźców wzrokowych i słuchowych oraz w kontroli ruchów.
+ Składa się z:
+ • pokrywy, która odpowiada za wzrok i słuch.
+ • nakrywki, kontrolującej sen, pobudzenie, uwagę, napięcie mięśni oraz odruchy.
+ Tyłomózgowie
+ Tyłomózgowie bierze udział w funkcjach autonomicznych, takich jak kontrola tętna i oddychania, a także w koordynowaniu ruchów.
+ Składa się z trzech istotnych części, którymi są:
+ • móżdżek – odpowiada za kontrolę poruszania się i koordynację ruchów;
+ 
+  • most – zgodnie z nazwą łączy móżdżek z pozostałą częścią mózgu;
+ • rdzeń przedłużony – steruje żywotnymi funkcjami organizmu, takimi jak działanie układ krwionośnego, oddychanie oraz ruch mięśni szkieletowych.
+ Komórki i chemikalia
+ Większość naukowców zajmujących się mózgiem za podstawową jednostkę tego organu uznaje neuron, czyli specjalną komórkę zapewniającą podstawową funkcję działania układu nerwowego, a więc przekazywanie impulsów nerwowych. Oprócz nich w omawianym narządzie znajdują się komórki glejowe, pełniące funkcje budulcowe i odżywcze, chociaż to neurony odgrywają główną rolę w działaniu mózgu.
+ Neurony można traktować jako swego rodzaju komórki informacyjne, gdyż biorą udział w przekazywaniu i gromadzeniu danych. W każdym z nich wyróżniamy następujące części:
+ • soma – ciało komórki zawierające jądro i inne struktury komórkowe, m.in. mitochondria;
+ • dendryt – wypustka odchodząca od ciała komórki i przyjmująca informacje pochodzące z innych neuronów;
+ • akson – włókno nerwowe przekazujące impulsy elektryczne;
+ • zakończenia aksonu – na końcu (który może być rozgałęziony) aksonu znajdują się specjalne miejsca, w których neuroprzekaźniki mogą być uwalniane w celu przekazania sygnału do innych neuronów.
+ Większość operacji w mózgu zachodzi na poziomie komórkowym, kiedy to neuron zostaje uaktywniony. Może to nastąpić poprzez uzyskanie informacji z innych neuronów połączonych w sieć. Krótko
+ 
+  mówiąc, jeżeli jakaś informacja z otoczenia (bądź nawet z wnętrza mózgu) uaktywni jeden lub więcej neuronów (na przykład za pośrednictwem organów zmysłu), wytworzony zostaje potencjał działania.
+ Potencjał działania to przepływ energii elektrochemicznej przez neuron w stronę zakończenia aksonów i dalej, do innych neuronów. Działanie neuronów podlega zasadzie „wszystko albo nic”, co oznacza, że neuron może być „włączony” lub „wyłączony”, czyli albo posiada potencjał, albo nie. Uaktywniony neuron przesyła informację, nieaktywny — nie wysyła jej.
+ Niektórzy uważają, że sam akt działania neuronu jest wyładowaniem elektrycznym, inni twierdzą, że to reakcja chemiczna. W rzeczywistości obie opinie są słuszne. Potencjał tworzy się na skutek pojawienia się energii elektrycznej wytworzonej i podtrzymywanej przez wymianę dodatnich i ujemnych jonów znajdujących się po zewnętrznej i wewnętrznej stronie neuronu. Działanie komórek nerwowych ma zatem charakter elektrochemiczny.
+ Kiedy neuron nie wysyła informacji, uznaje się, że posiada potencjał spoczynkowy i ładunek ujemny po jego stronie wewnętrznej jest wyższy niż po stronie zewnętrznej. Jeśli jednak otrzyma sygnał z innego neuronu, „bramki” w błonie komórkowej (wierzchniej warstwie komórki) otwierają się, dzięki czemu jony o ładunku dodatnim mogą wniknąć do naładowanego ujemnie wnętrza komórki. Zgodnie z podstawowymi zasadami fizyki i chemii ładunki ujemne są przyciągane przez dodatnie. W wyniku wspomnianego napływu jonów dodatnich we wnętrzu komórki wytworzony zostaje potencjał działania, dzięki czemu neuron „strzela” ładunkiem informacji. Potencjał ten jest zatem zaburzeniem równowagi elektrycznej, które przemieszcza się w wzdłuż aksonu, podobnie jak płomień przesuwający się wzdłuż lontu.
+ Po wyładowaniu energii neuron nie może powtórzyć tego przez pewien czas, w którym „regeneruje się” poprzez usuwanie jonów dodatnich na zewnątrz. W ten sposób przywraca równowagę i przygotowuje się do kolejnego działania.
+ 
+  Z niniejszej sekcji dowiesz się więcej o tym, w jaki sposób impuls nerwowy przemieszcza się pomiędzy neuronami w procesie noszącym nazwę transmisji synaptycznej.
+ Przez barierę
+ Dowiedziałeś się zatem, w jaki sposób impuls nerwowy przebiega wzdłuż aksonu komórki nerwowej. Jak jednak dochodzi do faktycznego przekazania tego sygnału do kolejnych neuronów? Zanim odpowiem na to pytanie, muszę wyjaśnić, że neurony nie stykają się ze sobą fizycznie. Pomiędzy aksonem neuronu nadającego sygnał a dendrytami neuronu przyjmującego tenże impuls istnieje drobny odstęp, noszący nazwę synapsy. Dochodzi w nim do przekazywania informacji pomiędzy neuronami za pośrednictwem neuroprzekaźników, czyli specyficznych związków chemicznych. Rysunek 3.2 przedstawia neuron i synapsę. Chociaż ich brzegi dzielą milionowe części milimetra, jeden z neuronów musi „rzucić” informację, mając nadzieję, że inny ją „złapie” i przekaże dalej.
+ Neuroprzekaźniki są przechowywane w aksonie komórki wysyłającej sygnał. Potencjał działania stymuluje ich wydzielanie do synapsy, skąd przepływają do receptorów drugiego neuronu. Neuroprzekaźniki o różnych kształtach łączą się z rozmaitymi receptorami.
+ Neuroprzekaźniki pełnią dwie podstawowe funkcje, a mianowicie mogą wzbudzać inny neuron (zwiększając szansę jego uaktywnienia) lub hamować jego działanie (zmniejszając szansę uaktywnienia). Niektóre z nich mają charakter pobudzający, inne zaś — hamujący (inhibicyjny). To, kiedy dany neuron wysyła impuls, jest uzależnione od równowagi oddziałujących na niego czynników pobudzających i hamujących.
+ 
+   Rysunek 3.2. Neuron i synapsa
+ Po połączeniu się z receptorami neuroprzekaźniki są albo rozkładane przez enzymy, albo przechwytywane z powrotem przez neurony, które je wysłały (proces ten nosi nazwę wychwytu zwrotnego). Oba te procesy oczyszczają synapsę z neuroprzekaźników, co pozwala przygotować komórki nerwowe na wysłanie kolejnego sygnału. Większość lekarstw stosowanych w psychiatrii wpływa na opisywany tu mechanizm komunikacji między neuronami. Więcej informacji na ten temat znajdziesz w sekcji „Psychofarmakologia” w dalszej części tego rozdziału.
+ Naukowcy odkryli w ludzkim mózgu ponad 100 neuroprzekaźników. Wiele z nich pełni bardzo ważne funkcje. Są to na przykład:
+ • glutaminian — najpowszechniejszy neuroprzekaźnik wzbudzający;
+ • kwas gammaaminomasłowy (GABA) — najpowszechniejszy przekaźnik hamujący, wykorzystywany w procesach jedzenia, agresji i snu;
+ • acetylocholina — powszechny neuroprzekaźnik; pełni wiele funkcji pobudzających i hamujących; wykorzystywany w
+ 
+  procesach poruszania się i zapamiętywania.
+ Poniżej przedstawiam grupę czterech podobnych neuroprzekaźników, które odgrywają bardzo ważną rolę w modyfikowaniu zachowania. Są szczególnie istotne przy leczeniu zaburzeń psychicznych:
+ • serotonina — przekaźnik hamujący, równoważący przekaźniki wzbudzające, a także wpływający na nastrój, sen, jedzenie i odczuwanie bólu;
+ • dopamina — może mieć działanie wzbudzające lub hamujące; wykorzystywana w procesach uwagi, odczuwania przyjemności i poruszania się;
+ • epinefryna — przekaźnik wzbudzający związany z reakcjami stresowymi, tętnem i ciśnieniem krwi;
+ • norepinefryna — przekaźnik wzbudzający używany w regulowaniu energii, lęku i strachu.
+ Rozgałęzianie
+ Łączną liczbę neuronów tworzących mózg szacuje się na 86 miliardów, zaś liczba połączeń między nimi sięga bilionów. Innymi słowy, mózg można traktować jako niezwykle złożoną sieć. Dokładne mechanizmy przechowywania i przetwarzania informacji wciąż nie zostały w pełni odkryte, chociaż naukowcy poznali już dość sporą część z nich.
+ Mózg jest masowym równoległym systemem przetwarzania informacji. Taki system składa się z wielu rozgałęzionych połączeń, w odróżnieniu od systemu masowego szeregowego, w którym każdy neuron byłby połączony tylko z jednym innym neuronem (więcej informacji na ten temat znajdziesz w rozdziale 6.). W porównaniu z siecią elektryczną i układami elektronicznymi impulsy nerwowe
+  
+  przemieszczają się stosunkowo powoli (8 – 160 km/h), więc mózg szczególnie dobrze radzi sobie z wykonywaniem wielu czynności naraz — to tzw. przetwarzanie równoległe. Jego dobrą metaforą są poszukiwania osób zaginionych w parkach narodowych. Członkowie ekipy ratowniczej nie podążają gęsiego jeden z drugim, tylko „rozchodzą się” i każdy z nich działa samodzielnie w danym obszarze, aby cała grupa mogła przeszukać większy teren w tym samym czasie. Podobnie działa mózg, który wykorzystuje miliardy neuronów i biliony połączeń do przetwarzania, przechowywania i wyszukiwania informacji w swoich komórkach.
+ Neurony nie są połączone z każdym innym neuronem, lecz tworzą zespoły i podsieci biorące udział w konkretnych procesach i zachowaniach. Przykładowo jeżeli zobaczenie czerwonej piłki uaktywnia neurony numer 3, 4, 182, Z, A i 56, wówczas sieć „dostrzegania czerwonej piłki” będzie nosić nazwę 3-4-192-X-A-56. Jedno z zadań stojących przed osobami zajmującymi się neuronaukami to mapowanie mózgu, aby możliwe stało się powiązanie jego poszczególnych obszarów z konkretnymi zachowaniami i procesami. Znaną organizacją zajmującą się takimi badaniami jest Międzynarodowe Konsorcjum Mapowania Mózgu (International Consortium for Brain Mapping — ICBM).
+ Aktywacja zmian mózgu
+ Czy kiedykolwiek zdarzyło Ci się podrapać w nos i stwierdzić, że właśnie przestała Cię swędzieć stopa? Cóż, może trochę przesadziłem, ale tak właśnie wygląda zespół odczuć fantomowych, polegający na odbieraniu pozornych uczuć z kończyny, która fizycznie nie istnieje (na przykład z amputowanej ręki bądź nogi). Mogą one być odbierane jako ból, zimno, dotyk etc. Jak to jednak możliwe, skoro kończyna została utracona i nie ma prawa odbierać żadnych impulsów?
+ 
+  W swojej książce Half a Brain is Enough: The Story of Nico dr Antonio Battro opowiada historię chłopca, któremu usunięto sporą część mózgu w celu opanowania rzutów padaczkowych (ten zabieg, choć drastycznie inwazyjny, czasami jako jedyny pozwala opanować chorobę). W tym konkretnym przypadku Nico stracił niemalże połowę mózgu, ale, co niezwykłe, operacja ta nie wpłynęła znacząco na jego myślenie i zachowanie. Jak to możliwe?
+ Powyższy przykład dobrze ilustruje zjawisko neuroplastyczności, które najprawdopodobniej jest również przyczyną odczuć fantomowych. Polega ono na reorganizacji sieci neuronowych i połączeń między nimi. Jakiś czas temu naukowcy sądzili, że mózg jest uporządkowany w sposób „sztywny”. Uważali, że konkretne zjawiska zachodzą w ściśle określonych obszarach. Dziś wiemy, że nie jest to do końca prawdą, a mózg w razie potrzeby potrafi modyfikować swoją wielkość i metodę organizacji.
+ Zdolność tego organu do reagowania na bodźce i okoliczności stanowi również podstawę procesu uczenia się. Badania nad bólami fantomowymi pozwoliły odkryć, że sieci neuronowe związane z utraconą kończyną były wykorzystywane przez sieci znajdujące się obok i odpowiadające za odbieranie bodźców z innych części ciała. Kiedy zatem neurony przekazujące impulsy na przykład z amputowanego ramienia przetwarzały sygnał z innego regionu, jak choćby z twarzy, mózg odbierał je w taki sposób, jakby pochodziły z nieistniejącego już ramienia.
+ W przypadku Nica funkcje, za które odpowiadały części organu usunięte podczas operacji, zostały przejęte przez obszary sąsiadujące z usuniętą tkanką nerwową. Innymi słowy, pewne części mózgu nauczyły się wykonywać pracę utraconych fragmentów mózgu.
+ Zjawisko neuroplastyczności daje nadzieję wszystkim ludziom, którzy stracili część tkanki mózgowej w wyniku choroby bądź urazu. Na czym jednak polega regeneracja tego organu? Zraniona skóra zrasta się po pewnym czasie. Czy mózg goi się w podobny sposób?
+ 
+  Przez wiele lat naukowcy sądzili, że neurony i inne komórki mózgowe nie regenerują się. Niedawne badania pokazały jednak, że proces neurogenezy (odtwarzania komórek nerwowych) zachodzi w pewnych rejonach organu, zwłaszcza w komorach bocznych i hipokampie. Obecnie prowadzone są dalsze badania mające sprawdzić, czy występuje on też w innych obszarach układu nerwowego. Jeżeli zakończą się powodzeniem i naukowcy odkryją skuteczne metody stymulowania takiej regeneracji bądź wpływania na nią w inny sposób, może to oznaczać przełom w leczeniu wylewów, choroby Alzheimera, urazów mózgu bądź uszkodzeń rdzenia kręgowego. Należy jednak pamiętać, że prace znajdują się na bardzo wczesnym etapie.
+ Przeznaczenie tkwi w DNA
+ Jestem bardzo podobny do dziadka ze strony ojca. Czy zachowuję się tak jak on? Czy osobowość dziedziczymy po rodzicach? Czy intelekt i uroda są przekazywane genetycznie? Takimi i innymi pytaniami zajmuje się dział psychologii o nazwie genetyka behawioralna. Bada on rolę genów i dziedziczenia w rozwoju zachowań i procesów umysłowych.
+ Mózg wpływa na nasze zachowanie. Podobnie układ dokrewny. Co jednak z genetyką? Naukowcy są zgodni — geny w dużym stopniu decydują o ludzkim działaniu. Badania wykazują jednoznacznie, że genetyka ma bardzo istotny wpływ na naszą inteligencję, osobowość, a nawet skłonności do chorób psychicznych.
+ Analizy wpływu genetyki w psychologii dotyczyły przede wszystkim badań nad adoptowanymi bliźniętami — takie osoby (posiadające identyczny kod genetyczny) były rozdzielane po urodzeniu i wychowywane w różnych środowiskach, a następnie porównywane pod kątem występowania określonych czynników (na przykład skłonności do ADHD). Tego typu analizy pozwalają bowiem na wyodrębnienie środowiska jako głównego czynnika różnicującego. Kiedy bliźnięta wykazują podobieństwa w danej dziedzinie, można
+ 
+  bezpiecznie przypisać to wspólnemu kodowi genetycznemu, zaś różnice z dużą dozą prawdopodobieństwa wyjaśnić wpływem warunków, w jakich żyje to rodzeństwo. Obecnie badania te są rozwijane również dzięki masowemu pobieraniu DNA i manipulacji genetycznej.
+ Badacze szukają markerów genetycznych określonych zachowań, także tych problematycznych. Markerem (znacznikiem) są geny, których położenie w genomie jest znane. Dzisiaj znamy już znaczniki schorzeń takich jak autyzm, schizofrenia lub zaburzenia zdolności szkolnych. Należy przy tym pamiętać, że obecność markera nie oznacza, że dane zaburzenie wystąpi, a jedynie zwiększa szansę jego pojawienia się.
+ Chociaż złożoność genetyki behawioralnej sprawia, że naukowców czeka jeszcze bardzo dużo pracy, jedno pozostaje pewne — geny są ważne. Skąd jednak biorą się wrodzone cechy zachowania i procesy umysłowe? Odpowiedź na to pytanie jest znana. Wykształciły się one w drodze ewolucji.
+ Psychologia ewolucyjna twierdzi, że ludzka psychika (zachowania i procesy umysłowe) jest wynikiem doboru naturalnego, a więc procesu, w którym określone geny stają się mniej lub bardziej powszechne w populacji ogólnej za sprawą doboru partnerów. Innymi słowy, geny zwiększające szanse przeżycia i reprodukcji są przekazywane częściej niż inne, gdyż obdarzone nimi osobniki żyją dłużej i mają większe szanse na posiadanie dzieci. Jeżeli geny nie sprzyjają reprodukcji, są przekazywane rzadziej i szybciej zanikają.
+ Biologowie ewolucyjni uznają pewne zjawiska biologiczne (takie jak istnienie przeciwstawnych kciuków i chodzenie w pozycji wyprostowanej) za wyniki adaptacji. Psychologowie ewolucyjni podobnie traktują zjawiska psychiczne, czyli język, postrzeganie, uwagę, bycie szczęśliwym, pamięć etc. Zajmują się przede wszystkim analizowaniem tego, w jaki sposób wspomniane wyżej
+  
+  funkcje i cechy pomagały naszym przodkom przetrwać i adaptować się do zmieniającego się środowiska. Psychologowie ewolucyjni analizujący teorię przywiązania (patrz rozdział 10.) mogą dojść do wniosku, że mechanizmy relacji matka – dziecko wykształciły się do postaci obserwowanej obecnie, gdyż pozwalały na zwiększenie przeżywalności gatunku ludzkiego.
+ Psychofarmakologia
+ Wykorzystanie farmaceutyków do leczenia chorób psychicznych stało się bardzo popularne w ciągu ostatnich 50 lat (więcej informacji na temat chorób psychicznych znajdziesz w rozdziale 13.). Wcześniej leków używano dużo rzadziej, koncentrowano się raczej na psychoterapii oraz metodach psychospołecznych i behawioralnych. Rozwój nauk medycznych i przyrodniczych pozwolił jednak na opracowanie nowych, skuteczniejszych środków farmaceutycznych, które zaczęły zdobywać coraz większą popularność. Obecnie w aptekach dostępne są setki medykamentów stosowanych do leczenia objawów konkretnych zaburzeń psychicznych. Główne cele ich stosowania to osłabienie objawów, uśmierzenie bólu i poprawa ogólnego funkcjonowania organizmu.
+ Wiele struktur znajdujących się w mózgu i związanych z objawami konkretnych chorób psychicznych można powiązać z określonym neuroprzekaźnikiem. Na przykład często towarzyszące depresji zaburzenia snu i łaknienia są łączone z układem limbicznym. Środki wykorzystywane podczas leczenia chorób psychicznych działają w taki sposób, by wpływać na funkcjonowanie specyficznych neuroprzekaźników w danym rejonie mózgu. W tym konkretnym przypadku medykamenty decydują o wydzielaniu serotoniny.
+ Poniżej opisuję typowe objawy i metody zwalczania depresji, schizofrenii oraz lęku, które są jednymi z najlepiej znanych, a zatem najczęściej i najsprawniej leczonych zaburzeń psychicznych.
+ 
+  Leczenie depresji
+ Środki wykorzystywane do leczenia depresji nazywane są antydepresantami. Większość tych medykamentów wpływa na przynajmniej jeden z dwóch neuroprzekaźników, jakimi są noradrenalina i serotonina. Ogólnie rzecz biorąc, istnieją dwie klasy antydepresantów różniące się mechanizmem działania.
+ • Trójpierścieniowe leki antydepresyjne blokują presynaptyczną resorpcję noradrenaliny (NE), co powoduje „zwiększenie” poziomu NE w synapsie, przedłużając tym samym okres, przez jaki NE oddziałuje na neuron postsynaptyczny.
+ • Selektywne inhibitory wychwytu zwrotnego serotoniny (SSRI) mają działanie podobne do środków opisanych wyżej, tyle że wpływają na resorpcję serotoniny, nie noradrenaliny. Najpopularniejszymi lekami z tej grupy są Prozac, Paxil i Zoloft.
+ Wyciszanie głosów
+ Halucynacje słuchowe czy też poczucie bycia śledzonym mogą być niezwykle uciążliwe. Takimi objawami cechuje się przede wszystkim choroba psychiczna zwana schizofrenią. Jedną z metod leczenia jej objawów jest aplikowanie leków przeciwpsychotycznych.
+ Środki przeciwpsychotyczne (psychotropowe) oddziałują na neuroprzekaźnik zwany dopaminą. Zgodnie z odnoszącą się do schizofrenii hipotezą deregulacji dopaminowej objawy psychozy są wynikiem zaburzenia funkcjonowania dopaminy w mózgu. Leki przeciwpsychotyczne blokują postsynaptyczne receptory wspomnianego neuroprzekaźnika, dzięki czemu neurony postsynaptyczne nie są przez niego aktywowane. Badania potwierdziły, że takie działanie istotnie zmniejsza nasilenie objawów psychotycznych.
+ Problem z lekami przeciwpsychotycznymi polega jednak na tym, że podobnie jak wszystkie
+ 
+   medykamenty, mogą wywoływać skutki uboczne. W tym konkretnym przypadku oznacza to oddziaływanie na neuroprzekaźniki inne niż te odpowiedzialne za zaburzenie. Środki przeciwpsychotyczne wpływają więc na pozostałe obszary mózgu, a to często prowadzi do bardzo nieprzyjemnych skutków, takich jak wzrost masy ciała, spontaniczne, nieskoordynowane ruchy bądź problemy natury seksualnej. Takie efekty nierzadko skłaniają pacjentów do odstawienia leków, co może mieć poważne następstwa. Sytuacja ta skłania więc badaczy do opracowywania wciąż nowych, bardziej selektywnych farmaceutyków.
+ Relaks
+ Zaburzenia lękowe są najczęściej spotykanymi zaburzeniami psychicznymi. Miliony ludzi na całym świecie cierpią z powodu przesadnych obaw, ataków paniki czy paraliżujących fobii. Na szczęście istnieją leki pomagające zwalczyć takie objawy.
+ Leki anksjolityczne zostały stworzone po to, by osłabiać objawy zaburzeń lękowych. Psychiatrzy, a nawet lekarze rodzinni dość często przepisują benzodiazepiny, środki tworzące jedną z wielu grup anksjolityków. Wpływają one na neuroprzekaźnik GABA, który spowalnia działanie układu nerwowego. Innymi słowy, służy do hamowania akcji mózgu.
+ Benzodiazepiny to bardzo skuteczne środki redukujące lęki. Niestety, są również silnie uzależniające. Ich działanie jest prawie natychmiastowe i objawia się ogólnym odprężeniem oraz poczuciem spokoju. Takie wrażenia są dość przyjemne, dlatego pacjenci nie chcą odstawiać środków nawet po skutecznym wyleczeniu zaburzenia lękowego. Tabela 3.1 zawiera zestawienie najczęściej przepisywanych medykamentów.
+ Tabela 3.1. Główne grupy leków
+    
+  Leki Problem
+ Depresja
+ Napady paniki
+ Zaburzenia obsesyjno-kompulsywne Bezsenność
+ Niespecyficzne zaburzenia lękowe Napady paniki
+ Schizofrenia
+ Mania
+ Mania
+ Zaburzenia dwubiegunowe
+ Stymulanty ADHD
+ Operacja bez skalpela
+ Przykład
+ Prozac
+ Zoloft
+ Paxil
+ Benzodiazepiny (Xanax) Benzodiazepiny Benzodiazepiny Haloperidol
+ Zyprexa Węglan litu Depamide Ritalin
+    Antydepresanty
+    Przeciwpsychotyczne
+  Stabilizatory nastroju
+                          Zmiany biologicznego funkcjonowania organizmu mogą wpływać na psychikę. Środki psychofarmakologiczne oddziałują bezpośrednio na biologiczne działanie mózgu, zaś neurochirurgia pozwala na cięcie i usuwanie fragmentów tkanki mózgowej. Wyobraź sobie jednak, co by się stało, gdyby w przyszłości lekarze mogli zmieniać działanie umysłu bez użycia pigułek i skalpeli.
+ Dr McCoy z fantastycznonaukowego serialu Star Trek łagodził zaburzenia psychiczne swoich pacjentów za pomocą przykładanego do głowy urządzenia, które emitowało jakiś rodzaj energii. Dziś nauka dogoniła wyobraźnię tego serialu.
+ Opracowana niedawno Przezczaszkowa Stymulacja Magnetyczna (Transcranial Magnetic Stimulation — TMS) jest metodą przypominającą na pierwszy rzut oka procedurę rodem z filmu SF,
+ 
+  gdyż polega na uaktywnianiu wybranych obszarów mózgu za pomocą pola magnetycznego. Technika ta pozwala na leczenie migren, objawów wylewu, halucynacji, a nawet depresji.
+ W przypadku tej ostatniej TMS stosuje się do stymulowania płata czołowego i układu limbicznego. Wyniki są obiecujące, więc lekarze mają nadzieję, że w niedalekiej przyszłości wspomniana metoda pozwoli na leczenie także innych zaburzeń.
+ 
