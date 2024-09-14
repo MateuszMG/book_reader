@@ -203,6 +203,8 @@ const Reader = () => {
           value={selectedBook}
         >
           <Option value="en">en</Option>
+          <Option value="smallTextPL">smallTextPL</Option>
+          <Option value="smallTextEN">smallTextEN</Option>
           <Option value="DEIR3_1">DEIR3_1</Option>
           <Option value="DEIR3_2">DEIR3_2</Option>
           <Option value="DEIR3_3">DEIR3_3</Option>
