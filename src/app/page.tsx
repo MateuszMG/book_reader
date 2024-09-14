@@ -9,6 +9,7 @@ import {
 } from "@ant-design/icons";
 import Link from "next/link";
 import { HistoryEntry } from "./ClearHistory/page";
+import { handleApiError } from "@/components/ErrorToast";
 
 const { Content } = Layout;
 const { Paragraph } = Typography;
@@ -24,9 +25,29 @@ const Home = () => {
   const [isSpeaking, setIsSpeaking] = useState<boolean>(false);
   const [isPaused, setIsPaused] = useState<boolean>(false);
   const [startWord, setStartWord] = useState<string>("");
-  const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
+  // const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
 
   const [history, setHistory] = useState<HistoryEntry[]>([]);
+
+  const handleLoadVoices = () => {
+    const availableVoices = window?.speechSynthesis
+      .getVoices()
+      // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
+      .filter(
+        // (item) =>
+        //   item.name.includes("Zosia (Enhanced)") || item.name.includes("Daniel")
+        ({ lang }) =>
+          lang.toLowerCase().includes("en") ||
+          lang.toLowerCase().includes("us") ||
+          lang.toLowerCase().includes("pl")
+      )
+      .reverse();
+
+    setVoices(availableVoices);
+    // if (availableVoices.length > 0) {
+    //   setSelectedVoice(availableVoices[0].name);
+    // }
+  };
 
   useEffect(() => {
     const storedHistory = JSON.parse(localStorage.getItem("history") || "[]");
@@ -34,29 +55,31 @@ const Home = () => {
   }, []);
 
   useEffect(() => {
-    const loadVoices = () => {
-      const availableVoices = window?.speechSynthesis.getVoices();
-      // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
-      // .filter(
-      //   (item) =>
-      //     item.name.includes("Zosia (Enhanced)") ||
-      //     item.name.includes("Daniel")
-      // )
-      // .reverse();
+    // const loadVoices = () => {
+    //   const availableVoices = window?.speechSynthesis.getVoices();
+    //   // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
+    //   // .filter(
+    //   //   (item) =>
+    //   //     item.name.includes("Zosia (Enhanced)") ||
+    //   //     item.name.includes("Daniel")
+    //   // )
+    //   // .reverse();
 
-      setVoices(availableVoices);
-      if (availableVoices.length > 0) {
-        setSelectedVoice(availableVoices[0].name);
-      }
-    };
+    //   setVoices(availableVoices);
+    //   if (availableVoices.length > 0) {
+    //     setSelectedVoice(availableVoices[0].name);
+    //   }
+    // };
 
-    loadVoices();
+    // loadVoices();
+
+    handleLoadVoices();
 
     if (
       typeof window !== "undefined" &&
       window.speechSynthesis.onvoiceschanged !== undefined
     ) {
-      window.speechSynthesis.onvoiceschanged = loadVoices;
+      window.speechSynthesis.onvoiceschanged = handleLoadVoices;
     }
 
     // Load saved progress
@@ -70,22 +93,6 @@ const Home = () => {
       setStartWord(savedWords.split(" ").slice(-1)[0]); // Start from the last word
     }
   }, []);
-
-  const handleLoadVoices = () => {
-    const availableVoices = window?.speechSynthesis
-      .getVoices()
-      // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
-      .filter(
-        (item) =>
-          item.name.includes("Zosia (Enhanced)") || item.name.includes("Daniel")
-      )
-      .reverse();
-
-    setVoices(availableVoices);
-    if (availableVoices.length > 0) {
-      setSelectedVoice(availableVoices[0].name);
-    }
-  };
 
   const loadBook = async (book: string) => {
     const response = await fetch(`/books/${book}.json`);
@@ -123,7 +130,8 @@ const Home = () => {
   };
 
   const handleSpeak = (startFromWord: string) => {
-    if (!bookText || !selectedVoice) return;
+    if (!bookText || !selectedVoice)
+      return handleApiError("handleSpeak -- !bookText || !selectedVoice");
 
     if (window.speechSynthesis.speaking && !isPaused) {
       window.speechSynthesis.cancel();
@@ -148,7 +156,7 @@ const Home = () => {
     utterance.rate = speechRate;
     // utterance.lang = "en";
     utterance.voice =
-      voices.find((voice) => voice.name === selectedVoice) || null;
+      voices.find((voice) => voice.name === selectedVoice) || voices[0] || null;
     utterance.onboundary = (event: SpeechSynthesisEvent) => {
       if (event.name === "word") {
         const charIndex =
@@ -162,7 +170,7 @@ const Home = () => {
       setCurrentWordIndex(-1);
     };
 
-    utteranceRef.current = utterance;
+    // utteranceRef.current = utterance;
     window.speechSynthesis.speak(utterance);
     setIsSpeaking(true);
     setIsPaused(false);
