@@ -228,6 +228,11 @@ const Home = () => {
           </div>
         )} */}
 
+        <Link href="/reader">
+          <Button type="link" style={{ marginBottom: "24px" }}>
+            Reader
+          </Button>
+        </Link>
         <Link href="/ClearHistory">
           <Button type="link" style={{ marginBottom: "24px" }}>
             Clear History
