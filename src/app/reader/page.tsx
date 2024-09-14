@@ -41,7 +41,7 @@ const Reader = () => {
     }
 
     const handleLoadVoices = () => {
-      const availableVoices = window?.speechSynthesis
+      let availableVoices = window?.speechSynthesis
         .getVoices()
         // .filter((item) => item.lang.includes("en") || item.lang.includes("pl"))
         .filter(
@@ -54,16 +54,19 @@ const Reader = () => {
         )
         .reverse();
 
+      if (!availableVoices || availableVoices?.length) {
+        availableVoices = window?.speechSynthesis.getVoices().reverse();
+      }
+
       setVoices(availableVoices);
     };
 
-    handleLoadVoices();
-
-    if (window.speechSynthesis.onvoiceschanged) {
+    if (window.speechSynthesis.onvoiceschanged !== undefined) {
       window.speechSynthesis.onvoiceschanged = handleLoadVoices;
     }
+
+    handleLoadVoices();
   }, []);
-  console.log("voices", voices);
 
   const handleSpeak = (startFromWord?: string) => {
     if (!bookText || !selectedVoice)
