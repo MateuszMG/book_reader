@@ -1,0 +1,35 @@
+{
+  "bookTitles": [
+    "v1",
+    "v19",
+    "v20",
+    "Psych"
+  ],
+  "books": [
+    {
+      "title": "v1",
+      "wordsTotal": 1689,
+      "recentUserWord": 2000
+    },
+    {
+      "title": "v19",
+      "wordsTotal": 1707,
+      "recentUserWord": 1600
+    },
+    {
+      "title": "v20",
+      "wordsTotal": 152,
+      "recentUserWord": 0
+    },
+    {
+      "title": "Psych",
+      "wordsTotal": 111069,
+      "recentUserWord": 4810
+    }
+  ],
+  "recent": {
+    "title": "Psych",
+    "wordsTotal": 111069,
+    "recentUserWord": 4810
+  }
+}

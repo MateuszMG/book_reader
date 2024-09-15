@@ -222,6 +222,16 @@ const Home = () => {
   return (
     <Layout style={{ padding: "24px", minHeight: "100vh" }}>
       <Content>
+        <Link href="/new">
+          <Button type="link" style={{ marginBottom: "24px" }}>
+            new
+          </Button>
+        </Link>
+        <Link href="/fromServer">
+          <Button type="link" style={{ marginBottom: "24px" }}>
+            fromServer
+          </Button>
+        </Link>
         <Link href="/reader">
           <Button type="link" style={{ marginBottom: "24px" }}>
             Reader
