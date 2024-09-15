@@ -1,8 +1,7 @@
 import { readBooksInfo } from "@/helpers/files";
-import { NextApiRequest, NextApiResponse } from "next";
 import { NextResponse } from "next/server";
 
-export async function GET(req: NextApiRequest, res: NextApiResponse) {
+export async function GET() {
   try {
     const booksInfo = readBooksInfo();
     return NextResponse.json({ booksInfo });
